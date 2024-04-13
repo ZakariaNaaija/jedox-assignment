@@ -1,0 +1,31 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 8px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+.zebra th {
+  background-color: #f2f2f2;
+}
+
+.zebra tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+tr:hover {
+  background-color: #ddd;
+}
+
+.expandable {
+  cursor: pointer;
+}
+
+.expandable:hover {
+  background-color: #f0f0f0;
+}
+

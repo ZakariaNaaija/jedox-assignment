@@ -1,0 +1,7250 @@
+{
+  "11#ACTUAL#LC": [
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNITS",
+      "value": 123272
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNIT_PRICE",
+      "value": 524613
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#GROSS_REVENUE",
+      "value": 435682
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNITS",
+      "value": 732010
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 385071
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 398554
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNITS",
+      "value": 559945
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNIT_PRICE",
+      "value": 167947
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#GROSS_REVENUE",
+      "value": 540289
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNITS",
+      "value": 642886
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNIT_PRICE",
+      "value": 43153
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#GROSS_REVENUE",
+      "value": 710678
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNITS",
+      "value": 550304
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNIT_PRICE",
+      "value": 103757
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#GROSS_REVENUE",
+      "value": 29200
+    },
+    {
+      "key": "BIKES#EUROPE#UNITS",
+      "value": 720067
+    },
+    {
+      "key": "BIKES#EUROPE#UNIT_PRICE",
+      "value": 515669
+    },
+    {
+      "key": "BIKES#EUROPE#GROSS_REVENUE",
+      "value": 941766
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNITS",
+      "value": 760883
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 629441
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 752302
+    },
+    {
+      "key": "BIKES#GERMANY#UNITS",
+      "value": 24789
+    },
+    {
+      "key": "BIKES#GERMANY#UNIT_PRICE",
+      "value": 136194
+    },
+    {
+      "key": "BIKES#GERMANY#GROSS_REVENUE",
+      "value": 213998
+    },
+    {
+      "key": "BIKES#BERLIN#UNITS",
+      "value": 464399
+    },
+    {
+      "key": "BIKES#BERLIN#UNIT_PRICE",
+      "value": 768476
+    },
+    {
+      "key": "BIKES#BERLIN#GROSS_REVENUE",
+      "value": 966559
+    },
+    {
+      "key": "BIKES#FREIBURG#UNITS",
+      "value": 342147
+    },
+    {
+      "key": "BIKES#FREIBURG#UNIT_PRICE",
+      "value": 283058
+    },
+    {
+      "key": "BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 144356
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNITS",
+      "value": 146677
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNIT_PRICE",
+      "value": 691173
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#GROSS_REVENUE",
+      "value": 89391
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNITS",
+      "value": 313471
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 817887
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 514743
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNITS",
+      "value": 59453
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNIT_PRICE",
+      "value": 391916
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#GROSS_REVENUE",
+      "value": 184741
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNITS",
+      "value": 375257
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNIT_PRICE",
+      "value": 787038
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#GROSS_REVENUE",
+      "value": 373967
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNITS",
+      "value": 236968
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNIT_PRICE",
+      "value": 764605
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 647310
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNITS",
+      "value": 184634
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNIT_PRICE",
+      "value": 23373
+    },
+    {
+      "key": "PRODUCT#EUROPE#GROSS_REVENUE",
+      "value": 945532
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNITS",
+      "value": 60636
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 50481
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 920542
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNITS",
+      "value": 979267
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNIT_PRICE",
+      "value": 793291
+    },
+    {
+      "key": "PRODUCT#GERMANY#GROSS_REVENUE",
+      "value": 9025
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNITS",
+      "value": 395595
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNIT_PRICE",
+      "value": 517526
+    },
+    {
+      "key": "PRODUCT#BERLIN#GROSS_REVENUE",
+      "value": 401616
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNITS",
+      "value": 561386
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNIT_PRICE",
+      "value": 178716
+    },
+    {
+      "key": "PRODUCT#FREIBURG#GROSS_REVENUE",
+      "value": 447915
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNITS",
+      "value": 902404
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNIT_PRICE",
+      "value": 9789
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#GROSS_REVENUE",
+      "value": 799158
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNITS",
+      "value": 283961
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 988526
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 358502
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNITS",
+      "value": 409359
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNIT_PRICE",
+      "value": 872189
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#GROSS_REVENUE",
+      "value": 875825
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNITS",
+      "value": 637164
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNIT_PRICE",
+      "value": 446522
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#GROSS_REVENUE",
+      "value": 327307
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNITS",
+      "value": 540401
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNIT_PRICE",
+      "value": 561585
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#GROSS_REVENUE",
+      "value": 102364
+    }
+  ],
+  "11#ACTUAL#USD": [
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNITS",
+      "value": 741238
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNIT_PRICE",
+      "value": 673849
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#GROSS_REVENUE",
+      "value": 2652
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNITS",
+      "value": 327248
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 515365
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 102500
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNITS",
+      "value": 335182
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNIT_PRICE",
+      "value": 149048
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#GROSS_REVENUE",
+      "value": 351977
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNITS",
+      "value": 746641
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNIT_PRICE",
+      "value": 690129
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#GROSS_REVENUE",
+      "value": 971365
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNITS",
+      "value": 128590
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNIT_PRICE",
+      "value": 436589
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#GROSS_REVENUE",
+      "value": 749510
+    },
+    {
+      "key": "BIKES#EUROPE#UNITS",
+      "value": 948063
+    },
+    {
+      "key": "BIKES#EUROPE#UNIT_PRICE",
+      "value": 472870
+    },
+    {
+      "key": "BIKES#EUROPE#GROSS_REVENUE",
+      "value": 465556
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNITS",
+      "value": 594859
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 835221
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 599353
+    },
+    {
+      "key": "BIKES#GERMANY#UNITS",
+      "value": 130245
+    },
+    {
+      "key": "BIKES#GERMANY#UNIT_PRICE",
+      "value": 353415
+    },
+    {
+      "key": "BIKES#GERMANY#GROSS_REVENUE",
+      "value": 91264
+    },
+    {
+      "key": "BIKES#BERLIN#UNITS",
+      "value": 21649
+    },
+    {
+      "key": "BIKES#BERLIN#UNIT_PRICE",
+      "value": 636407
+    },
+    {
+      "key": "BIKES#BERLIN#GROSS_REVENUE",
+      "value": 541029
+    },
+    {
+      "key": "BIKES#FREIBURG#UNITS",
+      "value": 712220
+    },
+    {
+      "key": "BIKES#FREIBURG#UNIT_PRICE",
+      "value": 148177
+    },
+    {
+      "key": "BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 346464
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNITS",
+      "value": 868008
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNIT_PRICE",
+      "value": 517403
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#GROSS_REVENUE",
+      "value": 706946
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNITS",
+      "value": 66332
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 871650
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 908963
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNITS",
+      "value": 76529
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNIT_PRICE",
+      "value": 797366
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#GROSS_REVENUE",
+      "value": 71141
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNITS",
+      "value": 248903
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNIT_PRICE",
+      "value": 496105
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#GROSS_REVENUE",
+      "value": 257997
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNITS",
+      "value": 869251
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNIT_PRICE",
+      "value": 988781
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 647675
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNITS",
+      "value": 729294
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNIT_PRICE",
+      "value": 245871
+    },
+    {
+      "key": "PRODUCT#EUROPE#GROSS_REVENUE",
+      "value": 72588
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNITS",
+      "value": 851937
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 691675
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 515909
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNITS",
+      "value": 919482
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNIT_PRICE",
+      "value": 340770
+    },
+    {
+      "key": "PRODUCT#GERMANY#GROSS_REVENUE",
+      "value": 375298
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNITS",
+      "value": 321633
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNIT_PRICE",
+      "value": 421629
+    },
+    {
+      "key": "PRODUCT#BERLIN#GROSS_REVENUE",
+      "value": 342117
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNITS",
+      "value": 952832
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNIT_PRICE",
+      "value": 469228
+    },
+    {
+      "key": "PRODUCT#FREIBURG#GROSS_REVENUE",
+      "value": 4770
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNITS",
+      "value": 117750
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNIT_PRICE",
+      "value": 185070
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#GROSS_REVENUE",
+      "value": 320339
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNITS",
+      "value": 766955
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 608670
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 645038
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNITS",
+      "value": 842647
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNIT_PRICE",
+      "value": 530779
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#GROSS_REVENUE",
+      "value": 500345
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNITS",
+      "value": 699386
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNIT_PRICE",
+      "value": 834413
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#GROSS_REVENUE",
+      "value": 150596
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNITS",
+      "value": 811753
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNIT_PRICE",
+      "value": 303344
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#GROSS_REVENUE",
+      "value": 499404
+    }
+  ],
+  "11#ACTUAL#EUR": [
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNITS",
+      "value": 475492
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNIT_PRICE",
+      "value": 608461
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#GROSS_REVENUE",
+      "value": 793602
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNITS",
+      "value": 702827
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 592307
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 598254
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNITS",
+      "value": 20299
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNIT_PRICE",
+      "value": 973292
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#GROSS_REVENUE",
+      "value": 783559
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNITS",
+      "value": 8558
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNIT_PRICE",
+      "value": 354817
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#GROSS_REVENUE",
+      "value": 386784
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNITS",
+      "value": 958262
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNIT_PRICE",
+      "value": 748586
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#GROSS_REVENUE",
+      "value": 461831
+    },
+    {
+      "key": "BIKES#EUROPE#UNITS",
+      "value": 189177
+    },
+    {
+      "key": "BIKES#EUROPE#UNIT_PRICE",
+      "value": 875774
+    },
+    {
+      "key": "BIKES#EUROPE#GROSS_REVENUE",
+      "value": 709875
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNITS",
+      "value": 167166
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 632580
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 513086
+    },
+    {
+      "key": "BIKES#GERMANY#UNITS",
+      "value": 92113
+    },
+    {
+      "key": "BIKES#GERMANY#UNIT_PRICE",
+      "value": 806056
+    },
+    {
+      "key": "BIKES#GERMANY#GROSS_REVENUE",
+      "value": 442001
+    },
+    {
+      "key": "BIKES#BERLIN#UNITS",
+      "value": 540094
+    },
+    {
+      "key": "BIKES#BERLIN#UNIT_PRICE",
+      "value": 98077
+    },
+    {
+      "key": "BIKES#BERLIN#GROSS_REVENUE",
+      "value": 951645
+    },
+    {
+      "key": "BIKES#FREIBURG#UNITS",
+      "value": 570604
+    },
+    {
+      "key": "BIKES#FREIBURG#UNIT_PRICE",
+      "value": 772193
+    },
+    {
+      "key": "BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 466457
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNITS",
+      "value": 74670
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNIT_PRICE",
+      "value": 134835
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#GROSS_REVENUE",
+      "value": 444630
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNITS",
+      "value": 390992
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 256720
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 997939
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNITS",
+      "value": 489470
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNIT_PRICE",
+      "value": 314184
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#GROSS_REVENUE",
+      "value": 763681
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNITS",
+      "value": 924343
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNIT_PRICE",
+      "value": 813664
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#GROSS_REVENUE",
+      "value": 921521
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNITS",
+      "value": 248365
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNIT_PRICE",
+      "value": 769761
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 308479
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNITS",
+      "value": 730142
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNIT_PRICE",
+      "value": 783996
+    },
+    {
+      "key": "PRODUCT#EUROPE#GROSS_REVENUE",
+      "value": 148258
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNITS",
+      "value": 463823
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 330454
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 970654
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNITS",
+      "value": 860174
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNIT_PRICE",
+      "value": 436415
+    },
+    {
+      "key": "PRODUCT#GERMANY#GROSS_REVENUE",
+      "value": 81156
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNITS",
+      "value": 918137
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNIT_PRICE",
+      "value": 799981
+    },
+    {
+      "key": "PRODUCT#BERLIN#GROSS_REVENUE",
+      "value": 950023
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNITS",
+      "value": 632592
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNIT_PRICE",
+      "value": 37097
+    },
+    {
+      "key": "PRODUCT#FREIBURG#GROSS_REVENUE",
+      "value": 650233
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNITS",
+      "value": 98337
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNIT_PRICE",
+      "value": 821103
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#GROSS_REVENUE",
+      "value": 276924
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNITS",
+      "value": 367870
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 996042
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 93531
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNITS",
+      "value": 160891
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNIT_PRICE",
+      "value": 323807
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#GROSS_REVENUE",
+      "value": 229758
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNITS",
+      "value": 379200
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNIT_PRICE",
+      "value": 200143
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#GROSS_REVENUE",
+      "value": 195298
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNITS",
+      "value": 736665
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNIT_PRICE",
+      "value": 217986
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#GROSS_REVENUE",
+      "value": 975900
+    }
+  ],
+  "11#BUDGET#LC": [
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNITS",
+      "value": 913001
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNIT_PRICE",
+      "value": 121819
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#GROSS_REVENUE",
+      "value": 42498
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNITS",
+      "value": 209396
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 296185
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 819787
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNITS",
+      "value": 424389
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNIT_PRICE",
+      "value": 527956
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#GROSS_REVENUE",
+      "value": 224432
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNITS",
+      "value": 881393
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNIT_PRICE",
+      "value": 494104
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#GROSS_REVENUE",
+      "value": 846406
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNITS",
+      "value": 910852
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNIT_PRICE",
+      "value": 974734
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#GROSS_REVENUE",
+      "value": 556242
+    },
+    {
+      "key": "BIKES#EUROPE#UNITS",
+      "value": 205096
+    },
+    {
+      "key": "BIKES#EUROPE#UNIT_PRICE",
+      "value": 155399
+    },
+    {
+      "key": "BIKES#EUROPE#GROSS_REVENUE",
+      "value": 441642
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNITS",
+      "value": 800091
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 22535
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 521448
+    },
+    {
+      "key": "BIKES#GERMANY#UNITS",
+      "value": 380893
+    },
+    {
+      "key": "BIKES#GERMANY#UNIT_PRICE",
+      "value": 3897
+    },
+    {
+      "key": "BIKES#GERMANY#GROSS_REVENUE",
+      "value": 660692
+    },
+    {
+      "key": "BIKES#BERLIN#UNITS",
+      "value": 415334
+    },
+    {
+      "key": "BIKES#BERLIN#UNIT_PRICE",
+      "value": 353708
+    },
+    {
+      "key": "BIKES#BERLIN#GROSS_REVENUE",
+      "value": 239745
+    },
+    {
+      "key": "BIKES#FREIBURG#UNITS",
+      "value": 916720
+    },
+    {
+      "key": "BIKES#FREIBURG#UNIT_PRICE",
+      "value": 838773
+    },
+    {
+      "key": "BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 385454
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNITS",
+      "value": 153469
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNIT_PRICE",
+      "value": 829217
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#GROSS_REVENUE",
+      "value": 746371
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNITS",
+      "value": 630566
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 886384
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 472110
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNITS",
+      "value": 119471
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNIT_PRICE",
+      "value": 223363
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#GROSS_REVENUE",
+      "value": 658638
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNITS",
+      "value": 719917
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNIT_PRICE",
+      "value": 849642
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#GROSS_REVENUE",
+      "value": 823168
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNITS",
+      "value": 783716
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNIT_PRICE",
+      "value": 304238
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 967597
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNITS",
+      "value": 659091
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNIT_PRICE",
+      "value": 302451
+    },
+    {
+      "key": "PRODUCT#EUROPE#GROSS_REVENUE",
+      "value": 470145
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNITS",
+      "value": 836525
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 290585
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 436894
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNITS",
+      "value": 228055
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNIT_PRICE",
+      "value": 677742
+    },
+    {
+      "key": "PRODUCT#GERMANY#GROSS_REVENUE",
+      "value": 318156
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNITS",
+      "value": 600551
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNIT_PRICE",
+      "value": 175317
+    },
+    {
+      "key": "PRODUCT#BERLIN#GROSS_REVENUE",
+      "value": 435220
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNITS",
+      "value": 282967
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNIT_PRICE",
+      "value": 102549
+    },
+    {
+      "key": "PRODUCT#FREIBURG#GROSS_REVENUE",
+      "value": 807573
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNITS",
+      "value": 233692
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNIT_PRICE",
+      "value": 120510
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#GROSS_REVENUE",
+      "value": 33156
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNITS",
+      "value": 66762
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 287184
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 502286
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNITS",
+      "value": 143128
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNIT_PRICE",
+      "value": 403168
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#GROSS_REVENUE",
+      "value": 640755
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNITS",
+      "value": 215273
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNIT_PRICE",
+      "value": 305944
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#GROSS_REVENUE",
+      "value": 606831
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNITS",
+      "value": 881015
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNIT_PRICE",
+      "value": 204951
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#GROSS_REVENUE",
+      "value": 129842
+    }
+  ],
+  "11#BUDGET#USD": [
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNITS",
+      "value": 618361
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNIT_PRICE",
+      "value": 571141
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#GROSS_REVENUE",
+      "value": 572235
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNITS",
+      "value": 437153
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 17385
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 793529
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNITS",
+      "value": 929600
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNIT_PRICE",
+      "value": 306428
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#GROSS_REVENUE",
+      "value": 914322
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNITS",
+      "value": 158343
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNIT_PRICE",
+      "value": 284941
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#GROSS_REVENUE",
+      "value": 179673
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNITS",
+      "value": 21398
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNIT_PRICE",
+      "value": 828605
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#GROSS_REVENUE",
+      "value": 48863
+    },
+    {
+      "key": "BIKES#EUROPE#UNITS",
+      "value": 94867
+    },
+    {
+      "key": "BIKES#EUROPE#UNIT_PRICE",
+      "value": 610204
+    },
+    {
+      "key": "BIKES#EUROPE#GROSS_REVENUE",
+      "value": 795345
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNITS",
+      "value": 773038
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 937176
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 530052
+    },
+    {
+      "key": "BIKES#GERMANY#UNITS",
+      "value": 57229
+    },
+    {
+      "key": "BIKES#GERMANY#UNIT_PRICE",
+      "value": 34242
+    },
+    {
+      "key": "BIKES#GERMANY#GROSS_REVENUE",
+      "value": 596686
+    },
+    {
+      "key": "BIKES#BERLIN#UNITS",
+      "value": 851789
+    },
+    {
+      "key": "BIKES#BERLIN#UNIT_PRICE",
+      "value": 562361
+    },
+    {
+      "key": "BIKES#BERLIN#GROSS_REVENUE",
+      "value": 750021
+    },
+    {
+      "key": "BIKES#FREIBURG#UNITS",
+      "value": 773803
+    },
+    {
+      "key": "BIKES#FREIBURG#UNIT_PRICE",
+      "value": 373451
+    },
+    {
+      "key": "BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 760289
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNITS",
+      "value": 883937
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNIT_PRICE",
+      "value": 246794
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#GROSS_REVENUE",
+      "value": 566
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNITS",
+      "value": 334986
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 314626
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 345593
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNITS",
+      "value": 157580
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNIT_PRICE",
+      "value": 344926
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#GROSS_REVENUE",
+      "value": 464225
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNITS",
+      "value": 666572
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNIT_PRICE",
+      "value": 475884
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#GROSS_REVENUE",
+      "value": 157031
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNITS",
+      "value": 602949
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNIT_PRICE",
+      "value": 30839
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 467715
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNITS",
+      "value": 197607
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNIT_PRICE",
+      "value": 593581
+    },
+    {
+      "key": "PRODUCT#EUROPE#GROSS_REVENUE",
+      "value": 755512
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNITS",
+      "value": 611350
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 369937
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 239368
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNITS",
+      "value": 854772
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNIT_PRICE",
+      "value": 442917
+    },
+    {
+      "key": "PRODUCT#GERMANY#GROSS_REVENUE",
+      "value": 913463
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNITS",
+      "value": 403172
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNIT_PRICE",
+      "value": 751536
+    },
+    {
+      "key": "PRODUCT#BERLIN#GROSS_REVENUE",
+      "value": 528197
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNITS",
+      "value": 266890
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNIT_PRICE",
+      "value": 663520
+    },
+    {
+      "key": "PRODUCT#FREIBURG#GROSS_REVENUE",
+      "value": 185542
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNITS",
+      "value": 502228
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNIT_PRICE",
+      "value": 585409
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#GROSS_REVENUE",
+      "value": 500024
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNITS",
+      "value": 885904
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 955406
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 181309
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNITS",
+      "value": 64514
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNIT_PRICE",
+      "value": 689022
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#GROSS_REVENUE",
+      "value": 151457
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNITS",
+      "value": 65794
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNIT_PRICE",
+      "value": 116738
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#GROSS_REVENUE",
+      "value": 116216
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNITS",
+      "value": 812331
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNIT_PRICE",
+      "value": 339918
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#GROSS_REVENUE",
+      "value": 879599
+    }
+  ],
+  "11#BUDGET#EUR": [
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNITS",
+      "value": 343690
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNIT_PRICE",
+      "value": 302868
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#GROSS_REVENUE",
+      "value": 374598
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNITS",
+      "value": 350148
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 128579
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 191450
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNITS",
+      "value": 865270
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNIT_PRICE",
+      "value": 685507
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#GROSS_REVENUE",
+      "value": 949599
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNITS",
+      "value": 724228
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNIT_PRICE",
+      "value": 487484
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#GROSS_REVENUE",
+      "value": 812210
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNITS",
+      "value": 248286
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNIT_PRICE",
+      "value": 383277
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#GROSS_REVENUE",
+      "value": 325290
+    },
+    {
+      "key": "BIKES#EUROPE#UNITS",
+      "value": 568010
+    },
+    {
+      "key": "BIKES#EUROPE#UNIT_PRICE",
+      "value": 972288
+    },
+    {
+      "key": "BIKES#EUROPE#GROSS_REVENUE",
+      "value": 576360
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNITS",
+      "value": 483332
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 335350
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 157052
+    },
+    {
+      "key": "BIKES#GERMANY#UNITS",
+      "value": 538361
+    },
+    {
+      "key": "BIKES#GERMANY#UNIT_PRICE",
+      "value": 959824
+    },
+    {
+      "key": "BIKES#GERMANY#GROSS_REVENUE",
+      "value": 916868
+    },
+    {
+      "key": "BIKES#BERLIN#UNITS",
+      "value": 842663
+    },
+    {
+      "key": "BIKES#BERLIN#UNIT_PRICE",
+      "value": 188035
+    },
+    {
+      "key": "BIKES#BERLIN#GROSS_REVENUE",
+      "value": 506634
+    },
+    {
+      "key": "BIKES#FREIBURG#UNITS",
+      "value": 119324
+    },
+    {
+      "key": "BIKES#FREIBURG#UNIT_PRICE",
+      "value": 176210
+    },
+    {
+      "key": "BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 732810
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNITS",
+      "value": 309177
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNIT_PRICE",
+      "value": 494292
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#GROSS_REVENUE",
+      "value": 456560
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNITS",
+      "value": 510076
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 427446
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 208431
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNITS",
+      "value": 878852
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNIT_PRICE",
+      "value": 739293
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#GROSS_REVENUE",
+      "value": 829603
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNITS",
+      "value": 314844
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNIT_PRICE",
+      "value": 879890
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#GROSS_REVENUE",
+      "value": 824035
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNITS",
+      "value": 304864
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNIT_PRICE",
+      "value": 283246
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 173234
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNITS",
+      "value": 437361
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNIT_PRICE",
+      "value": 589956
+    },
+    {
+      "key": "PRODUCT#EUROPE#GROSS_REVENUE",
+      "value": 136627
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNITS",
+      "value": 673552
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 279317
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 592883
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNITS",
+      "value": 613986
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNIT_PRICE",
+      "value": 89627
+    },
+    {
+      "key": "PRODUCT#GERMANY#GROSS_REVENUE",
+      "value": 885900
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNITS",
+      "value": 492334
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNIT_PRICE",
+      "value": 63407
+    },
+    {
+      "key": "PRODUCT#BERLIN#GROSS_REVENUE",
+      "value": 715810
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNITS",
+      "value": 986684
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNIT_PRICE",
+      "value": 869302
+    },
+    {
+      "key": "PRODUCT#FREIBURG#GROSS_REVENUE",
+      "value": 998737
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNITS",
+      "value": 33794
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNIT_PRICE",
+      "value": 171475
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#GROSS_REVENUE",
+      "value": 841034
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNITS",
+      "value": 491603
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 653695
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 661219
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNITS",
+      "value": 556368
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNIT_PRICE",
+      "value": 372767
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#GROSS_REVENUE",
+      "value": 719702
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNITS",
+      "value": 465895
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNIT_PRICE",
+      "value": 199450
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#GROSS_REVENUE",
+      "value": 789133
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNITS",
+      "value": 383253
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNIT_PRICE",
+      "value": 822042
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#GROSS_REVENUE",
+      "value": 468297
+    }
+  ],
+  "12#ACTUAL#LC": [
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNITS",
+      "value": 837218
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNIT_PRICE",
+      "value": 379698
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#GROSS_REVENUE",
+      "value": 842386
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNITS",
+      "value": 891979
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 131375
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 539182
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNITS",
+      "value": 174809
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNIT_PRICE",
+      "value": 257533
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#GROSS_REVENUE",
+      "value": 46147
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNITS",
+      "value": 631891
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNIT_PRICE",
+      "value": 492248
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#GROSS_REVENUE",
+      "value": 750123
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNITS",
+      "value": 592212
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNIT_PRICE",
+      "value": 934302
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#GROSS_REVENUE",
+      "value": 291959
+    },
+    {
+      "key": "BIKES#EUROPE#UNITS",
+      "value": 37604
+    },
+    {
+      "key": "BIKES#EUROPE#UNIT_PRICE",
+      "value": 804279
+    },
+    {
+      "key": "BIKES#EUROPE#GROSS_REVENUE",
+      "value": 541937
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNITS",
+      "value": 121627
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 633292
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 279613
+    },
+    {
+      "key": "BIKES#GERMANY#UNITS",
+      "value": 727519
+    },
+    {
+      "key": "BIKES#GERMANY#UNIT_PRICE",
+      "value": 785792
+    },
+    {
+      "key": "BIKES#GERMANY#GROSS_REVENUE",
+      "value": 753758
+    },
+    {
+      "key": "BIKES#BERLIN#UNITS",
+      "value": 618578
+    },
+    {
+      "key": "BIKES#BERLIN#UNIT_PRICE",
+      "value": 206421
+    },
+    {
+      "key": "BIKES#BERLIN#GROSS_REVENUE",
+      "value": 345612
+    },
+    {
+      "key": "BIKES#FREIBURG#UNITS",
+      "value": 204045
+    },
+    {
+      "key": "BIKES#FREIBURG#UNIT_PRICE",
+      "value": 560600
+    },
+    {
+      "key": "BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 758060
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNITS",
+      "value": 988653
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNIT_PRICE",
+      "value": 712386
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#GROSS_REVENUE",
+      "value": 261377
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNITS",
+      "value": 636353
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 319096
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 639809
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNITS",
+      "value": 124073
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNIT_PRICE",
+      "value": 866671
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#GROSS_REVENUE",
+      "value": 756324
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNITS",
+      "value": 166006
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNIT_PRICE",
+      "value": 561108
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#GROSS_REVENUE",
+      "value": 69445
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNITS",
+      "value": 427344
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNIT_PRICE",
+      "value": 11509
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 560643
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNITS",
+      "value": 493207
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNIT_PRICE",
+      "value": 623383
+    },
+    {
+      "key": "PRODUCT#EUROPE#GROSS_REVENUE",
+      "value": 101595
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNITS",
+      "value": 366873
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 585947
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 216400
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNITS",
+      "value": 247374
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNIT_PRICE",
+      "value": 906560
+    },
+    {
+      "key": "PRODUCT#GERMANY#GROSS_REVENUE",
+      "value": 897295
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNITS",
+      "value": 794697
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNIT_PRICE",
+      "value": 370234
+    },
+    {
+      "key": "PRODUCT#BERLIN#GROSS_REVENUE",
+      "value": 430940
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNITS",
+      "value": 608979
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNIT_PRICE",
+      "value": 566588
+    },
+    {
+      "key": "PRODUCT#FREIBURG#GROSS_REVENUE",
+      "value": 405018
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNITS",
+      "value": 96894
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNIT_PRICE",
+      "value": 786696
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#GROSS_REVENUE",
+      "value": 738072
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNITS",
+      "value": 728415
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 139578
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 66324
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNITS",
+      "value": 347671
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNIT_PRICE",
+      "value": 320900
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#GROSS_REVENUE",
+      "value": 54509
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNITS",
+      "value": 802785
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNIT_PRICE",
+      "value": 211742
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#GROSS_REVENUE",
+      "value": 103278
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNITS",
+      "value": 260046
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNIT_PRICE",
+      "value": 612243
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#GROSS_REVENUE",
+      "value": 987775
+    }
+  ],
+  "12#ACTUAL#USD": [
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNITS",
+      "value": 944764
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNIT_PRICE",
+      "value": 752439
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#GROSS_REVENUE",
+      "value": 120005
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNITS",
+      "value": 841283
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 769651
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 525635
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNITS",
+      "value": 793095
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNIT_PRICE",
+      "value": 186766
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#GROSS_REVENUE",
+      "value": 632830
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNITS",
+      "value": 137698
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNIT_PRICE",
+      "value": 3876
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#GROSS_REVENUE",
+      "value": 295103
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNITS",
+      "value": 303190
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNIT_PRICE",
+      "value": 297830
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#GROSS_REVENUE",
+      "value": 951730
+    },
+    {
+      "key": "BIKES#EUROPE#UNITS",
+      "value": 152284
+    },
+    {
+      "key": "BIKES#EUROPE#UNIT_PRICE",
+      "value": 607110
+    },
+    {
+      "key": "BIKES#EUROPE#GROSS_REVENUE",
+      "value": 45506
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNITS",
+      "value": 31739
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 281869
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 864282
+    },
+    {
+      "key": "BIKES#GERMANY#UNITS",
+      "value": 961830
+    },
+    {
+      "key": "BIKES#GERMANY#UNIT_PRICE",
+      "value": 186175
+    },
+    {
+      "key": "BIKES#GERMANY#GROSS_REVENUE",
+      "value": 67822
+    },
+    {
+      "key": "BIKES#BERLIN#UNITS",
+      "value": 574724
+    },
+    {
+      "key": "BIKES#BERLIN#UNIT_PRICE",
+      "value": 289629
+    },
+    {
+      "key": "BIKES#BERLIN#GROSS_REVENUE",
+      "value": 652669
+    },
+    {
+      "key": "BIKES#FREIBURG#UNITS",
+      "value": 332720
+    },
+    {
+      "key": "BIKES#FREIBURG#UNIT_PRICE",
+      "value": 284223
+    },
+    {
+      "key": "BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 81316
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNITS",
+      "value": 640325
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNIT_PRICE",
+      "value": 907450
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#GROSS_REVENUE",
+      "value": 509049
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNITS",
+      "value": 837756
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 441244
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 518
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNITS",
+      "value": 208544
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNIT_PRICE",
+      "value": 32727
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#GROSS_REVENUE",
+      "value": 882344
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNITS",
+      "value": 513259
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNIT_PRICE",
+      "value": 970148
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#GROSS_REVENUE",
+      "value": 220919
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNITS",
+      "value": 367152
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNIT_PRICE",
+      "value": 721067
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 281243
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNITS",
+      "value": 110034
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNIT_PRICE",
+      "value": 797567
+    },
+    {
+      "key": "PRODUCT#EUROPE#GROSS_REVENUE",
+      "value": 798794
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNITS",
+      "value": 609898
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 707755
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 97613
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNITS",
+      "value": 395974
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNIT_PRICE",
+      "value": 269077
+    },
+    {
+      "key": "PRODUCT#GERMANY#GROSS_REVENUE",
+      "value": 204854
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNITS",
+      "value": 607562
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNIT_PRICE",
+      "value": 880807
+    },
+    {
+      "key": "PRODUCT#BERLIN#GROSS_REVENUE",
+      "value": 374976
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNITS",
+      "value": 316770
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNIT_PRICE",
+      "value": 323366
+    },
+    {
+      "key": "PRODUCT#FREIBURG#GROSS_REVENUE",
+      "value": 669536
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNITS",
+      "value": 709460
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNIT_PRICE",
+      "value": 928803
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#GROSS_REVENUE",
+      "value": 586003
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNITS",
+      "value": 215130
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 962415
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 293590
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNITS",
+      "value": 495635
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNIT_PRICE",
+      "value": 70021
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#GROSS_REVENUE",
+      "value": 151803
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNITS",
+      "value": 287012
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNIT_PRICE",
+      "value": 620718
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#GROSS_REVENUE",
+      "value": 688420
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNITS",
+      "value": 146135
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNIT_PRICE",
+      "value": 580599
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#GROSS_REVENUE",
+      "value": 480254
+    }
+  ],
+  "12#ACTUAL#EUR": [
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNITS",
+      "value": 269502
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNIT_PRICE",
+      "value": 649125
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#GROSS_REVENUE",
+      "value": 434804
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNITS",
+      "value": 261499
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 952816
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 992231
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNITS",
+      "value": 360476
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNIT_PRICE",
+      "value": 175366
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#GROSS_REVENUE",
+      "value": 578837
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNITS",
+      "value": 978869
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNIT_PRICE",
+      "value": 332225
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#GROSS_REVENUE",
+      "value": 218418
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNITS",
+      "value": 432805
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNIT_PRICE",
+      "value": 211323
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#GROSS_REVENUE",
+      "value": 799341
+    },
+    {
+      "key": "BIKES#EUROPE#UNITS",
+      "value": 9955
+    },
+    {
+      "key": "BIKES#EUROPE#UNIT_PRICE",
+      "value": 356777
+    },
+    {
+      "key": "BIKES#EUROPE#GROSS_REVENUE",
+      "value": 299643
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNITS",
+      "value": 600765
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 477914
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 846220
+    },
+    {
+      "key": "BIKES#GERMANY#UNITS",
+      "value": 561258
+    },
+    {
+      "key": "BIKES#GERMANY#UNIT_PRICE",
+      "value": 667241
+    },
+    {
+      "key": "BIKES#GERMANY#GROSS_REVENUE",
+      "value": 111243
+    },
+    {
+      "key": "BIKES#BERLIN#UNITS",
+      "value": 835199
+    },
+    {
+      "key": "BIKES#BERLIN#UNIT_PRICE",
+      "value": 411731
+    },
+    {
+      "key": "BIKES#BERLIN#GROSS_REVENUE",
+      "value": 145519
+    },
+    {
+      "key": "BIKES#FREIBURG#UNITS",
+      "value": 509167
+    },
+    {
+      "key": "BIKES#FREIBURG#UNIT_PRICE",
+      "value": 41856
+    },
+    {
+      "key": "BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 164071
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNITS",
+      "value": 861150
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNIT_PRICE",
+      "value": 74764
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#GROSS_REVENUE",
+      "value": 846757
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNITS",
+      "value": 257523
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 600967
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 368792
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNITS",
+      "value": 27077
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNIT_PRICE",
+      "value": 351602
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#GROSS_REVENUE",
+      "value": 803273
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNITS",
+      "value": 517532
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNIT_PRICE",
+      "value": 228681
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#GROSS_REVENUE",
+      "value": 238462
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNITS",
+      "value": 97743
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNIT_PRICE",
+      "value": 991726
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 580098
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNITS",
+      "value": 17221
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNIT_PRICE",
+      "value": 153743
+    },
+    {
+      "key": "PRODUCT#EUROPE#GROSS_REVENUE",
+      "value": 116935
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNITS",
+      "value": 999936
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 884012
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 670533
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNITS",
+      "value": 887972
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNIT_PRICE",
+      "value": 877800
+    },
+    {
+      "key": "PRODUCT#GERMANY#GROSS_REVENUE",
+      "value": 964047
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNITS",
+      "value": 726740
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNIT_PRICE",
+      "value": 904324
+    },
+    {
+      "key": "PRODUCT#BERLIN#GROSS_REVENUE",
+      "value": 6758
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNITS",
+      "value": 250737
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNIT_PRICE",
+      "value": 725421
+    },
+    {
+      "key": "PRODUCT#FREIBURG#GROSS_REVENUE",
+      "value": 908634
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNITS",
+      "value": 517486
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNIT_PRICE",
+      "value": 250125
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#GROSS_REVENUE",
+      "value": 325108
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNITS",
+      "value": 189836
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 201047
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 471292
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNITS",
+      "value": 496219
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNIT_PRICE",
+      "value": 411045
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#GROSS_REVENUE",
+      "value": 231753
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNITS",
+      "value": 847693
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNIT_PRICE",
+      "value": 940965
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#GROSS_REVENUE",
+      "value": 495517
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNITS",
+      "value": 197552
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNIT_PRICE",
+      "value": 414055
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#GROSS_REVENUE",
+      "value": 50010
+    }
+  ],
+  "12#BUDGET#LC": [
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNITS",
+      "value": 242159
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNIT_PRICE",
+      "value": 608
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#GROSS_REVENUE",
+      "value": 495498
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNITS",
+      "value": 498957
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 448018
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 529640
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNITS",
+      "value": 299515
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNIT_PRICE",
+      "value": 331246
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#GROSS_REVENUE",
+      "value": 176159
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNITS",
+      "value": 633015
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNIT_PRICE",
+      "value": 810951
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#GROSS_REVENUE",
+      "value": 41934
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNITS",
+      "value": 656313
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNIT_PRICE",
+      "value": 229150
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#GROSS_REVENUE",
+      "value": 586243
+    },
+    {
+      "key": "BIKES#EUROPE#UNITS",
+      "value": 861420
+    },
+    {
+      "key": "BIKES#EUROPE#UNIT_PRICE",
+      "value": 21140
+    },
+    {
+      "key": "BIKES#EUROPE#GROSS_REVENUE",
+      "value": 44395
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNITS",
+      "value": 749978
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 320373
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 573896
+    },
+    {
+      "key": "BIKES#GERMANY#UNITS",
+      "value": 829136
+    },
+    {
+      "key": "BIKES#GERMANY#UNIT_PRICE",
+      "value": 11049
+    },
+    {
+      "key": "BIKES#GERMANY#GROSS_REVENUE",
+      "value": 947637
+    },
+    {
+      "key": "BIKES#BERLIN#UNITS",
+      "value": 612667
+    },
+    {
+      "key": "BIKES#BERLIN#UNIT_PRICE",
+      "value": 378907
+    },
+    {
+      "key": "BIKES#BERLIN#GROSS_REVENUE",
+      "value": 530465
+    },
+    {
+      "key": "BIKES#FREIBURG#UNITS",
+      "value": 361567
+    },
+    {
+      "key": "BIKES#FREIBURG#UNIT_PRICE",
+      "value": 113373
+    },
+    {
+      "key": "BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 305135
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNITS",
+      "value": 550934
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNIT_PRICE",
+      "value": 189630
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#GROSS_REVENUE",
+      "value": 200111
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNITS",
+      "value": 166139
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 553050
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 863361
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNITS",
+      "value": 999855
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNIT_PRICE",
+      "value": 699919
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#GROSS_REVENUE",
+      "value": 230459
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNITS",
+      "value": 351748
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNIT_PRICE",
+      "value": 359615
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#GROSS_REVENUE",
+      "value": 606711
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNITS",
+      "value": 107808
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNIT_PRICE",
+      "value": 707285
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 987939
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNITS",
+      "value": 340671
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNIT_PRICE",
+      "value": 391746
+    },
+    {
+      "key": "PRODUCT#EUROPE#GROSS_REVENUE",
+      "value": 281821
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNITS",
+      "value": 814952
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 149206
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 474016
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNITS",
+      "value": 649792
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNIT_PRICE",
+      "value": 151601
+    },
+    {
+      "key": "PRODUCT#GERMANY#GROSS_REVENUE",
+      "value": 924764
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNITS",
+      "value": 371190
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNIT_PRICE",
+      "value": 918539
+    },
+    {
+      "key": "PRODUCT#BERLIN#GROSS_REVENUE",
+      "value": 215323
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNITS",
+      "value": 463201
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNIT_PRICE",
+      "value": 946308
+    },
+    {
+      "key": "PRODUCT#FREIBURG#GROSS_REVENUE",
+      "value": 444241
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNITS",
+      "value": 323828
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNIT_PRICE",
+      "value": 312827
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#GROSS_REVENUE",
+      "value": 694070
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNITS",
+      "value": 575227
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 449561
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 850816
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNITS",
+      "value": 92445
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNIT_PRICE",
+      "value": 391257
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#GROSS_REVENUE",
+      "value": 138442
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNITS",
+      "value": 81123
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNIT_PRICE",
+      "value": 957711
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#GROSS_REVENUE",
+      "value": 974108
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNITS",
+      "value": 184015
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNIT_PRICE",
+      "value": 288046
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#GROSS_REVENUE",
+      "value": 654085
+    }
+  ],
+  "12#BUDGET#USD": [
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNITS",
+      "value": 377724
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNIT_PRICE",
+      "value": 51362
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#GROSS_REVENUE",
+      "value": 744290
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNITS",
+      "value": 584380
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 725560
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 212240
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNITS",
+      "value": 43156
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNIT_PRICE",
+      "value": 542995
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#GROSS_REVENUE",
+      "value": 706012
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNITS",
+      "value": 124382
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNIT_PRICE",
+      "value": 546599
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#GROSS_REVENUE",
+      "value": 619007
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNITS",
+      "value": 225560
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNIT_PRICE",
+      "value": 456840
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#GROSS_REVENUE",
+      "value": 586073
+    },
+    {
+      "key": "BIKES#EUROPE#UNITS",
+      "value": 959521
+    },
+    {
+      "key": "BIKES#EUROPE#UNIT_PRICE",
+      "value": 904177
+    },
+    {
+      "key": "BIKES#EUROPE#GROSS_REVENUE",
+      "value": 985319
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNITS",
+      "value": 977793
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 847843
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 607446
+    },
+    {
+      "key": "BIKES#GERMANY#UNITS",
+      "value": 316946
+    },
+    {
+      "key": "BIKES#GERMANY#UNIT_PRICE",
+      "value": 978700
+    },
+    {
+      "key": "BIKES#GERMANY#GROSS_REVENUE",
+      "value": 382509
+    },
+    {
+      "key": "BIKES#BERLIN#UNITS",
+      "value": 232488
+    },
+    {
+      "key": "BIKES#BERLIN#UNIT_PRICE",
+      "value": 974411
+    },
+    {
+      "key": "BIKES#BERLIN#GROSS_REVENUE",
+      "value": 663235
+    },
+    {
+      "key": "BIKES#FREIBURG#UNITS",
+      "value": 475959
+    },
+    {
+      "key": "BIKES#FREIBURG#UNIT_PRICE",
+      "value": 902786
+    },
+    {
+      "key": "BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 685048
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNITS",
+      "value": 718316
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNIT_PRICE",
+      "value": 697828
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#GROSS_REVENUE",
+      "value": 58828
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNITS",
+      "value": 1902
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 905563
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 552218
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNITS",
+      "value": 426746
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNIT_PRICE",
+      "value": 911329
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#GROSS_REVENUE",
+      "value": 719594
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNITS",
+      "value": 542866
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNIT_PRICE",
+      "value": 748983
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#GROSS_REVENUE",
+      "value": 607012
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNITS",
+      "value": 910189
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNIT_PRICE",
+      "value": 484983
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 51539
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNITS",
+      "value": 743869
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNIT_PRICE",
+      "value": 933706
+    },
+    {
+      "key": "PRODUCT#EUROPE#GROSS_REVENUE",
+      "value": 845125
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNITS",
+      "value": 391681
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 800537
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 212437
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNITS",
+      "value": 452315
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNIT_PRICE",
+      "value": 247419
+    },
+    {
+      "key": "PRODUCT#GERMANY#GROSS_REVENUE",
+      "value": 310771
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNITS",
+      "value": 802278
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNIT_PRICE",
+      "value": 53307
+    },
+    {
+      "key": "PRODUCT#BERLIN#GROSS_REVENUE",
+      "value": 203966
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNITS",
+      "value": 993472
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNIT_PRICE",
+      "value": 526488
+    },
+    {
+      "key": "PRODUCT#FREIBURG#GROSS_REVENUE",
+      "value": 98072
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNITS",
+      "value": 500885
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNIT_PRICE",
+      "value": 929818
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#GROSS_REVENUE",
+      "value": 777937
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNITS",
+      "value": 625196
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 197457
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 357711
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNITS",
+      "value": 297550
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNIT_PRICE",
+      "value": 741445
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#GROSS_REVENUE",
+      "value": 355205
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNITS",
+      "value": 181402
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNIT_PRICE",
+      "value": 2023
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#GROSS_REVENUE",
+      "value": 778160
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNITS",
+      "value": 587391
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNIT_PRICE",
+      "value": 422678
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#GROSS_REVENUE",
+      "value": 151772
+    }
+  ],
+  "12#BUDGET#EUR": [
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNITS",
+      "value": 413683
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNIT_PRICE",
+      "value": 79433
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#GROSS_REVENUE",
+      "value": 548931
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNITS",
+      "value": 809060
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 555461
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 984129
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNITS",
+      "value": 528587
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNIT_PRICE",
+      "value": 486006
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#GROSS_REVENUE",
+      "value": 934559
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNITS",
+      "value": 760358
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNIT_PRICE",
+      "value": 541410
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#GROSS_REVENUE",
+      "value": 904800
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNITS",
+      "value": 336167
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNIT_PRICE",
+      "value": 732712
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#GROSS_REVENUE",
+      "value": 668550
+    },
+    {
+      "key": "BIKES#EUROPE#UNITS",
+      "value": 365388
+    },
+    {
+      "key": "BIKES#EUROPE#UNIT_PRICE",
+      "value": 500409
+    },
+    {
+      "key": "BIKES#EUROPE#GROSS_REVENUE",
+      "value": 941257
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNITS",
+      "value": 915284
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 541449
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 365914
+    },
+    {
+      "key": "BIKES#GERMANY#UNITS",
+      "value": 811515
+    },
+    {
+      "key": "BIKES#GERMANY#UNIT_PRICE",
+      "value": 821550
+    },
+    {
+      "key": "BIKES#GERMANY#GROSS_REVENUE",
+      "value": 383149
+    },
+    {
+      "key": "BIKES#BERLIN#UNITS",
+      "value": 44550
+    },
+    {
+      "key": "BIKES#BERLIN#UNIT_PRICE",
+      "value": 299891
+    },
+    {
+      "key": "BIKES#BERLIN#GROSS_REVENUE",
+      "value": 469888
+    },
+    {
+      "key": "BIKES#FREIBURG#UNITS",
+      "value": 747435
+    },
+    {
+      "key": "BIKES#FREIBURG#UNIT_PRICE",
+      "value": 34641
+    },
+    {
+      "key": "BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 404154
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNITS",
+      "value": 681221
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNIT_PRICE",
+      "value": 897960
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#GROSS_REVENUE",
+      "value": 295010
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNITS",
+      "value": 364321
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 883888
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 989897
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNITS",
+      "value": 714497
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNIT_PRICE",
+      "value": 520662
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#GROSS_REVENUE",
+      "value": 813590
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNITS",
+      "value": 58887
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNIT_PRICE",
+      "value": 434962
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#GROSS_REVENUE",
+      "value": 644548
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNITS",
+      "value": 865694
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNIT_PRICE",
+      "value": 856097
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 537920
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNITS",
+      "value": 854272
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNIT_PRICE",
+      "value": 840779
+    },
+    {
+      "key": "PRODUCT#EUROPE#GROSS_REVENUE",
+      "value": 951945
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNITS",
+      "value": 178923
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 456376
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 244593
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNITS",
+      "value": 887509
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNIT_PRICE",
+      "value": 46316
+    },
+    {
+      "key": "PRODUCT#GERMANY#GROSS_REVENUE",
+      "value": 977401
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNITS",
+      "value": 671876
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNIT_PRICE",
+      "value": 379934
+    },
+    {
+      "key": "PRODUCT#BERLIN#GROSS_REVENUE",
+      "value": 240231
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNITS",
+      "value": 229422
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNIT_PRICE",
+      "value": 335484
+    },
+    {
+      "key": "PRODUCT#FREIBURG#GROSS_REVENUE",
+      "value": 500639
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNITS",
+      "value": 542961
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNIT_PRICE",
+      "value": 574197
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#GROSS_REVENUE",
+      "value": 562974
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNITS",
+      "value": 555514
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 39106
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 415024
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNITS",
+      "value": 577688
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNIT_PRICE",
+      "value": 272146
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#GROSS_REVENUE",
+      "value": 730077
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNITS",
+      "value": 807590
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNIT_PRICE",
+      "value": 360816
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#GROSS_REVENUE",
+      "value": 59665
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNITS",
+      "value": 770678
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNIT_PRICE",
+      "value": 556280
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#GROSS_REVENUE",
+      "value": 785074
+    }
+  ],
+  "13#ACTUAL#LC": [
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNITS",
+      "value": 833417
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNIT_PRICE",
+      "value": 503799
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#GROSS_REVENUE",
+      "value": 395699
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNITS",
+      "value": 565261
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 72306
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 997201
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNITS",
+      "value": 768460
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNIT_PRICE",
+      "value": 136976
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#GROSS_REVENUE",
+      "value": 770513
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNITS",
+      "value": 271105
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNIT_PRICE",
+      "value": 821840
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#GROSS_REVENUE",
+      "value": 167541
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNITS",
+      "value": 272279
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNIT_PRICE",
+      "value": 629732
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#GROSS_REVENUE",
+      "value": 26728
+    },
+    {
+      "key": "BIKES#EUROPE#UNITS",
+      "value": 246392
+    },
+    {
+      "key": "BIKES#EUROPE#UNIT_PRICE",
+      "value": 611213
+    },
+    {
+      "key": "BIKES#EUROPE#GROSS_REVENUE",
+      "value": 428483
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNITS",
+      "value": 539868
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 477530
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 759557
+    },
+    {
+      "key": "BIKES#GERMANY#UNITS",
+      "value": 556098
+    },
+    {
+      "key": "BIKES#GERMANY#UNIT_PRICE",
+      "value": 215390
+    },
+    {
+      "key": "BIKES#GERMANY#GROSS_REVENUE",
+      "value": 82016
+    },
+    {
+      "key": "BIKES#BERLIN#UNITS",
+      "value": 255135
+    },
+    {
+      "key": "BIKES#BERLIN#UNIT_PRICE",
+      "value": 496183
+    },
+    {
+      "key": "BIKES#BERLIN#GROSS_REVENUE",
+      "value": 291133
+    },
+    {
+      "key": "BIKES#FREIBURG#UNITS",
+      "value": 631181
+    },
+    {
+      "key": "BIKES#FREIBURG#UNIT_PRICE",
+      "value": 486326
+    },
+    {
+      "key": "BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 662071
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNITS",
+      "value": 365196
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNIT_PRICE",
+      "value": 720892
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#GROSS_REVENUE",
+      "value": 777482
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNITS",
+      "value": 420104
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 443069
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 223859
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNITS",
+      "value": 989092
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNIT_PRICE",
+      "value": 636704
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#GROSS_REVENUE",
+      "value": 257421
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNITS",
+      "value": 607120
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNIT_PRICE",
+      "value": 664325
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#GROSS_REVENUE",
+      "value": 931327
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNITS",
+      "value": 748710
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNIT_PRICE",
+      "value": 24380
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 633739
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNITS",
+      "value": 808840
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNIT_PRICE",
+      "value": 496567
+    },
+    {
+      "key": "PRODUCT#EUROPE#GROSS_REVENUE",
+      "value": 636280
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNITS",
+      "value": 751612
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 706550
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 424719
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNITS",
+      "value": 318085
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNIT_PRICE",
+      "value": 80454
+    },
+    {
+      "key": "PRODUCT#GERMANY#GROSS_REVENUE",
+      "value": 714327
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNITS",
+      "value": 159538
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNIT_PRICE",
+      "value": 736901
+    },
+    {
+      "key": "PRODUCT#BERLIN#GROSS_REVENUE",
+      "value": 339933
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNITS",
+      "value": 5725
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNIT_PRICE",
+      "value": 345489
+    },
+    {
+      "key": "PRODUCT#FREIBURG#GROSS_REVENUE",
+      "value": 737498
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNITS",
+      "value": 881691
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNIT_PRICE",
+      "value": 114235
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#GROSS_REVENUE",
+      "value": 805012
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNITS",
+      "value": 534211
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 627454
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 935257
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNITS",
+      "value": 497059
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNIT_PRICE",
+      "value": 332057
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#GROSS_REVENUE",
+      "value": 230429
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNITS",
+      "value": 953669
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNIT_PRICE",
+      "value": 397693
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#GROSS_REVENUE",
+      "value": 168953
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNITS",
+      "value": 192484
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNIT_PRICE",
+      "value": 450366
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#GROSS_REVENUE",
+      "value": 93624
+    }
+  ],
+  "13#ACTUAL#USD": [
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNITS",
+      "value": 393265
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNIT_PRICE",
+      "value": 572249
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#GROSS_REVENUE",
+      "value": 829805
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNITS",
+      "value": 246535
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 980297
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 182120
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNITS",
+      "value": 560749
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNIT_PRICE",
+      "value": 34359
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#GROSS_REVENUE",
+      "value": 528512
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNITS",
+      "value": 773800
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNIT_PRICE",
+      "value": 988789
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#GROSS_REVENUE",
+      "value": 605804
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNITS",
+      "value": 457208
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNIT_PRICE",
+      "value": 70002
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#GROSS_REVENUE",
+      "value": 272173
+    },
+    {
+      "key": "BIKES#EUROPE#UNITS",
+      "value": 298028
+    },
+    {
+      "key": "BIKES#EUROPE#UNIT_PRICE",
+      "value": 574763
+    },
+    {
+      "key": "BIKES#EUROPE#GROSS_REVENUE",
+      "value": 891067
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNITS",
+      "value": 728762
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 775752
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 521335
+    },
+    {
+      "key": "BIKES#GERMANY#UNITS",
+      "value": 66512
+    },
+    {
+      "key": "BIKES#GERMANY#UNIT_PRICE",
+      "value": 252407
+    },
+    {
+      "key": "BIKES#GERMANY#GROSS_REVENUE",
+      "value": 305145
+    },
+    {
+      "key": "BIKES#BERLIN#UNITS",
+      "value": 60587
+    },
+    {
+      "key": "BIKES#BERLIN#UNIT_PRICE",
+      "value": 345406
+    },
+    {
+      "key": "BIKES#BERLIN#GROSS_REVENUE",
+      "value": 751239
+    },
+    {
+      "key": "BIKES#FREIBURG#UNITS",
+      "value": 395549
+    },
+    {
+      "key": "BIKES#FREIBURG#UNIT_PRICE",
+      "value": 13807
+    },
+    {
+      "key": "BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 859167
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNITS",
+      "value": 982743
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNIT_PRICE",
+      "value": 917479
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#GROSS_REVENUE",
+      "value": 172715
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNITS",
+      "value": 97189
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 419238
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 109265
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNITS",
+      "value": 694716
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNIT_PRICE",
+      "value": 84838
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#GROSS_REVENUE",
+      "value": 389143
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNITS",
+      "value": 558874
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNIT_PRICE",
+      "value": 489766
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#GROSS_REVENUE",
+      "value": 43276
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNITS",
+      "value": 176158
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNIT_PRICE",
+      "value": 781086
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 655175
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNITS",
+      "value": 171017
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNIT_PRICE",
+      "value": 272641
+    },
+    {
+      "key": "PRODUCT#EUROPE#GROSS_REVENUE",
+      "value": 533401
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNITS",
+      "value": 601398
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 841362
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 768127
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNITS",
+      "value": 88243
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNIT_PRICE",
+      "value": 896155
+    },
+    {
+      "key": "PRODUCT#GERMANY#GROSS_REVENUE",
+      "value": 860480
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNITS",
+      "value": 493109
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNIT_PRICE",
+      "value": 986300
+    },
+    {
+      "key": "PRODUCT#BERLIN#GROSS_REVENUE",
+      "value": 188256
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNITS",
+      "value": 252359
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNIT_PRICE",
+      "value": 442847
+    },
+    {
+      "key": "PRODUCT#FREIBURG#GROSS_REVENUE",
+      "value": 145265
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNITS",
+      "value": 412145
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNIT_PRICE",
+      "value": 619268
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#GROSS_REVENUE",
+      "value": 355605
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNITS",
+      "value": 843560
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 190612
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 470
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNITS",
+      "value": 203033
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNIT_PRICE",
+      "value": 209052
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#GROSS_REVENUE",
+      "value": 448504
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNITS",
+      "value": 273550
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNIT_PRICE",
+      "value": 466835
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#GROSS_REVENUE",
+      "value": 958510
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNITS",
+      "value": 740878
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNIT_PRICE",
+      "value": 55645
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#GROSS_REVENUE",
+      "value": 330502
+    }
+  ],
+  "13#ACTUAL#EUR": [
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNITS",
+      "value": 434594
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNIT_PRICE",
+      "value": 736627
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#GROSS_REVENUE",
+      "value": 4632
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNITS",
+      "value": 447123
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 962451
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 389007
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNITS",
+      "value": 89086
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNIT_PRICE",
+      "value": 67061
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#GROSS_REVENUE",
+      "value": 376746
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNITS",
+      "value": 480948
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNIT_PRICE",
+      "value": 842969
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#GROSS_REVENUE",
+      "value": 264821
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNITS",
+      "value": 115685
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNIT_PRICE",
+      "value": 846437
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#GROSS_REVENUE",
+      "value": 353606
+    },
+    {
+      "key": "BIKES#EUROPE#UNITS",
+      "value": 146117
+    },
+    {
+      "key": "BIKES#EUROPE#UNIT_PRICE",
+      "value": 129283
+    },
+    {
+      "key": "BIKES#EUROPE#GROSS_REVENUE",
+      "value": 475875
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNITS",
+      "value": 817498
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 292402
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 283674
+    },
+    {
+      "key": "BIKES#GERMANY#UNITS",
+      "value": 477139
+    },
+    {
+      "key": "BIKES#GERMANY#UNIT_PRICE",
+      "value": 788032
+    },
+    {
+      "key": "BIKES#GERMANY#GROSS_REVENUE",
+      "value": 478726
+    },
+    {
+      "key": "BIKES#BERLIN#UNITS",
+      "value": 62801
+    },
+    {
+      "key": "BIKES#BERLIN#UNIT_PRICE",
+      "value": 494674
+    },
+    {
+      "key": "BIKES#BERLIN#GROSS_REVENUE",
+      "value": 81738
+    },
+    {
+      "key": "BIKES#FREIBURG#UNITS",
+      "value": 313270
+    },
+    {
+      "key": "BIKES#FREIBURG#UNIT_PRICE",
+      "value": 457849
+    },
+    {
+      "key": "BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 742768
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNITS",
+      "value": 174858
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNIT_PRICE",
+      "value": 406952
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#GROSS_REVENUE",
+      "value": 38745
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNITS",
+      "value": 749054
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 954970
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 255209
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNITS",
+      "value": 549412
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNIT_PRICE",
+      "value": 35089
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#GROSS_REVENUE",
+      "value": 597375
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNITS",
+      "value": 793906
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNIT_PRICE",
+      "value": 618994
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#GROSS_REVENUE",
+      "value": 511681
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNITS",
+      "value": 632162
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNIT_PRICE",
+      "value": 440797
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 837804
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNITS",
+      "value": 76639
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNIT_PRICE",
+      "value": 917876
+    },
+    {
+      "key": "PRODUCT#EUROPE#GROSS_REVENUE",
+      "value": 980969
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNITS",
+      "value": 951161
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 361359
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 466965
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNITS",
+      "value": 567967
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNIT_PRICE",
+      "value": 266274
+    },
+    {
+      "key": "PRODUCT#GERMANY#GROSS_REVENUE",
+      "value": 313856
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNITS",
+      "value": 914067
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNIT_PRICE",
+      "value": 484010
+    },
+    {
+      "key": "PRODUCT#BERLIN#GROSS_REVENUE",
+      "value": 568968
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNITS",
+      "value": 596702
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNIT_PRICE",
+      "value": 721538
+    },
+    {
+      "key": "PRODUCT#FREIBURG#GROSS_REVENUE",
+      "value": 920914
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNITS",
+      "value": 21440
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNIT_PRICE",
+      "value": 227890
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#GROSS_REVENUE",
+      "value": 790140
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNITS",
+      "value": 502453
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 538729
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 48312
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNITS",
+      "value": 583021
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNIT_PRICE",
+      "value": 808705
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#GROSS_REVENUE",
+      "value": 907584
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNITS",
+      "value": 958613
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNIT_PRICE",
+      "value": 847839
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#GROSS_REVENUE",
+      "value": 733928
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNITS",
+      "value": 511794
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNIT_PRICE",
+      "value": 627744
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#GROSS_REVENUE",
+      "value": 689624
+    }
+  ],
+  "13#BUDGET#LC": [
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNITS",
+      "value": 708462
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNIT_PRICE",
+      "value": 447826
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#GROSS_REVENUE",
+      "value": 474902
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNITS",
+      "value": 359870
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 667156
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 172507
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNITS",
+      "value": 787937
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNIT_PRICE",
+      "value": 820200
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#GROSS_REVENUE",
+      "value": 720368
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNITS",
+      "value": 301143
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNIT_PRICE",
+      "value": 186364
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#GROSS_REVENUE",
+      "value": 810709
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNITS",
+      "value": 951515
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNIT_PRICE",
+      "value": 789898
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#GROSS_REVENUE",
+      "value": 16146
+    },
+    {
+      "key": "BIKES#EUROPE#UNITS",
+      "value": 234735
+    },
+    {
+      "key": "BIKES#EUROPE#UNIT_PRICE",
+      "value": 560983
+    },
+    {
+      "key": "BIKES#EUROPE#GROSS_REVENUE",
+      "value": 613384
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNITS",
+      "value": 959975
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 477522
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 418148
+    },
+    {
+      "key": "BIKES#GERMANY#UNITS",
+      "value": 529952
+    },
+    {
+      "key": "BIKES#GERMANY#UNIT_PRICE",
+      "value": 901080
+    },
+    {
+      "key": "BIKES#GERMANY#GROSS_REVENUE",
+      "value": 186478
+    },
+    {
+      "key": "BIKES#BERLIN#UNITS",
+      "value": 495982
+    },
+    {
+      "key": "BIKES#BERLIN#UNIT_PRICE",
+      "value": 148862
+    },
+    {
+      "key": "BIKES#BERLIN#GROSS_REVENUE",
+      "value": 381068
+    },
+    {
+      "key": "BIKES#FREIBURG#UNITS",
+      "value": 463538
+    },
+    {
+      "key": "BIKES#FREIBURG#UNIT_PRICE",
+      "value": 211614
+    },
+    {
+      "key": "BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 651961
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNITS",
+      "value": 236664
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNIT_PRICE",
+      "value": 778561
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#GROSS_REVENUE",
+      "value": 143286
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNITS",
+      "value": 131329
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 937619
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 475896
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNITS",
+      "value": 693912
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNIT_PRICE",
+      "value": 159333
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#GROSS_REVENUE",
+      "value": 324676
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNITS",
+      "value": 212318
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNIT_PRICE",
+      "value": 66429
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#GROSS_REVENUE",
+      "value": 950580
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNITS",
+      "value": 53693
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNIT_PRICE",
+      "value": 79372
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 691606
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNITS",
+      "value": 733222
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNIT_PRICE",
+      "value": 36030
+    },
+    {
+      "key": "PRODUCT#EUROPE#GROSS_REVENUE",
+      "value": 87287
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNITS",
+      "value": 957221
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 212502
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 443230
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNITS",
+      "value": 182483
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNIT_PRICE",
+      "value": 607531
+    },
+    {
+      "key": "PRODUCT#GERMANY#GROSS_REVENUE",
+      "value": 66728
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNITS",
+      "value": 316045
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNIT_PRICE",
+      "value": 992522
+    },
+    {
+      "key": "PRODUCT#BERLIN#GROSS_REVENUE",
+      "value": 495152
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNITS",
+      "value": 198518
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNIT_PRICE",
+      "value": 335945
+    },
+    {
+      "key": "PRODUCT#FREIBURG#GROSS_REVENUE",
+      "value": 826747
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNITS",
+      "value": 20212
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNIT_PRICE",
+      "value": 556017
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#GROSS_REVENUE",
+      "value": 987432
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNITS",
+      "value": 434208
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 844634
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 54458
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNITS",
+      "value": 938694
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNIT_PRICE",
+      "value": 578991
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#GROSS_REVENUE",
+      "value": 876142
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNITS",
+      "value": 893327
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNIT_PRICE",
+      "value": 236569
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#GROSS_REVENUE",
+      "value": 673009
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNITS",
+      "value": 820318
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNIT_PRICE",
+      "value": 791610
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#GROSS_REVENUE",
+      "value": 120536
+    }
+  ],
+  "13#BUDGET#USD": [
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNITS",
+      "value": 735615
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNIT_PRICE",
+      "value": 135611
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#GROSS_REVENUE",
+      "value": 941956
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNITS",
+      "value": 48025
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 911503
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 648359
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNITS",
+      "value": 189514
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNIT_PRICE",
+      "value": 767351
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#GROSS_REVENUE",
+      "value": 664828
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNITS",
+      "value": 736942
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNIT_PRICE",
+      "value": 461866
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#GROSS_REVENUE",
+      "value": 706259
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNITS",
+      "value": 516443
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNIT_PRICE",
+      "value": 64511
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#GROSS_REVENUE",
+      "value": 705828
+    },
+    {
+      "key": "BIKES#EUROPE#UNITS",
+      "value": 705299
+    },
+    {
+      "key": "BIKES#EUROPE#UNIT_PRICE",
+      "value": 770070
+    },
+    {
+      "key": "BIKES#EUROPE#GROSS_REVENUE",
+      "value": 954149
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNITS",
+      "value": 289735
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 636386
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 687581
+    },
+    {
+      "key": "BIKES#GERMANY#UNITS",
+      "value": 283891
+    },
+    {
+      "key": "BIKES#GERMANY#UNIT_PRICE",
+      "value": 243979
+    },
+    {
+      "key": "BIKES#GERMANY#GROSS_REVENUE",
+      "value": 270502
+    },
+    {
+      "key": "BIKES#BERLIN#UNITS",
+      "value": 886283
+    },
+    {
+      "key": "BIKES#BERLIN#UNIT_PRICE",
+      "value": 318822
+    },
+    {
+      "key": "BIKES#BERLIN#GROSS_REVENUE",
+      "value": 715730
+    },
+    {
+      "key": "BIKES#FREIBURG#UNITS",
+      "value": 604086
+    },
+    {
+      "key": "BIKES#FREIBURG#UNIT_PRICE",
+      "value": 688942
+    },
+    {
+      "key": "BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 989261
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNITS",
+      "value": 718540
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNIT_PRICE",
+      "value": 980972
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#GROSS_REVENUE",
+      "value": 765929
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNITS",
+      "value": 968260
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 121287
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 856200
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNITS",
+      "value": 414145
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNIT_PRICE",
+      "value": 836391
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#GROSS_REVENUE",
+      "value": 2399
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNITS",
+      "value": 60899
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNIT_PRICE",
+      "value": 263249
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#GROSS_REVENUE",
+      "value": 120300
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNITS",
+      "value": 490825
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNIT_PRICE",
+      "value": 667184
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 303985
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNITS",
+      "value": 128001
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNIT_PRICE",
+      "value": 649101
+    },
+    {
+      "key": "PRODUCT#EUROPE#GROSS_REVENUE",
+      "value": 805793
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNITS",
+      "value": 215701
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 300200
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 342890
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNITS",
+      "value": 989819
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNIT_PRICE",
+      "value": 501496
+    },
+    {
+      "key": "PRODUCT#GERMANY#GROSS_REVENUE",
+      "value": 634182
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNITS",
+      "value": 293873
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNIT_PRICE",
+      "value": 277294
+    },
+    {
+      "key": "PRODUCT#BERLIN#GROSS_REVENUE",
+      "value": 254736
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNITS",
+      "value": 580497
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNIT_PRICE",
+      "value": 15285
+    },
+    {
+      "key": "PRODUCT#FREIBURG#GROSS_REVENUE",
+      "value": 110616
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNITS",
+      "value": 666794
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNIT_PRICE",
+      "value": 720896
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#GROSS_REVENUE",
+      "value": 934874
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNITS",
+      "value": 243725
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 495958
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 184747
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNITS",
+      "value": 76953
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNIT_PRICE",
+      "value": 923937
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#GROSS_REVENUE",
+      "value": 440264
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNITS",
+      "value": 258863
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNIT_PRICE",
+      "value": 326706
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#GROSS_REVENUE",
+      "value": 995329
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNITS",
+      "value": 124983
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNIT_PRICE",
+      "value": 222267
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#GROSS_REVENUE",
+      "value": 956043
+    }
+  ],
+  "13#BUDGET#EUR": [
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNITS",
+      "value": 895592
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNIT_PRICE",
+      "value": 213148
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#GROSS_REVENUE",
+      "value": 780733
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNITS",
+      "value": 63045
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 576895
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 600895
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNITS",
+      "value": 385609
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNIT_PRICE",
+      "value": 522808
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#GROSS_REVENUE",
+      "value": 437043
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNITS",
+      "value": 866001
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNIT_PRICE",
+      "value": 677716
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#GROSS_REVENUE",
+      "value": 718849
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNITS",
+      "value": 281012
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNIT_PRICE",
+      "value": 215514
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#GROSS_REVENUE",
+      "value": 373924
+    },
+    {
+      "key": "BIKES#EUROPE#UNITS",
+      "value": 567826
+    },
+    {
+      "key": "BIKES#EUROPE#UNIT_PRICE",
+      "value": 961673
+    },
+    {
+      "key": "BIKES#EUROPE#GROSS_REVENUE",
+      "value": 68130
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNITS",
+      "value": 156994
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 414278
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 912129
+    },
+    {
+      "key": "BIKES#GERMANY#UNITS",
+      "value": 971778
+    },
+    {
+      "key": "BIKES#GERMANY#UNIT_PRICE",
+      "value": 174
+    },
+    {
+      "key": "BIKES#GERMANY#GROSS_REVENUE",
+      "value": 899973
+    },
+    {
+      "key": "BIKES#BERLIN#UNITS",
+      "value": 953441
+    },
+    {
+      "key": "BIKES#BERLIN#UNIT_PRICE",
+      "value": 713478
+    },
+    {
+      "key": "BIKES#BERLIN#GROSS_REVENUE",
+      "value": 82410
+    },
+    {
+      "key": "BIKES#FREIBURG#UNITS",
+      "value": 68607
+    },
+    {
+      "key": "BIKES#FREIBURG#UNIT_PRICE",
+      "value": 143607
+    },
+    {
+      "key": "BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 592999
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNITS",
+      "value": 392190
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNIT_PRICE",
+      "value": 634817
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#GROSS_REVENUE",
+      "value": 861875
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNITS",
+      "value": 500916
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 179742
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 49343
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNITS",
+      "value": 544882
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNIT_PRICE",
+      "value": 932499
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#GROSS_REVENUE",
+      "value": 730427
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNITS",
+      "value": 851705
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNIT_PRICE",
+      "value": 529702
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#GROSS_REVENUE",
+      "value": 230587
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNITS",
+      "value": 172702
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNIT_PRICE",
+      "value": 256306
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 135707
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNITS",
+      "value": 541554
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNIT_PRICE",
+      "value": 910566
+    },
+    {
+      "key": "PRODUCT#EUROPE#GROSS_REVENUE",
+      "value": 48442
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNITS",
+      "value": 666166
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 767479
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 150652
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNITS",
+      "value": 211525
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNIT_PRICE",
+      "value": 987362
+    },
+    {
+      "key": "PRODUCT#GERMANY#GROSS_REVENUE",
+      "value": 658835
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNITS",
+      "value": 988499
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNIT_PRICE",
+      "value": 858068
+    },
+    {
+      "key": "PRODUCT#BERLIN#GROSS_REVENUE",
+      "value": 119386
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNITS",
+      "value": 624451
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNIT_PRICE",
+      "value": 415168
+    },
+    {
+      "key": "PRODUCT#FREIBURG#GROSS_REVENUE",
+      "value": 323142
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNITS",
+      "value": 436078
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNIT_PRICE",
+      "value": 777204
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#GROSS_REVENUE",
+      "value": 779729
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNITS",
+      "value": 662395
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 941476
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 394242
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNITS",
+      "value": 621755
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNIT_PRICE",
+      "value": 585850
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#GROSS_REVENUE",
+      "value": 754193
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNITS",
+      "value": 714304
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNIT_PRICE",
+      "value": 797025
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#GROSS_REVENUE",
+      "value": 917879
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNITS",
+      "value": 624970
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNIT_PRICE",
+      "value": 698710
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#GROSS_REVENUE",
+      "value": 703211
+    }
+  ],
+  "ALL_ENTITIES#ACTUAL#LC": [
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNITS",
+      "value": 253363
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNIT_PRICE",
+      "value": 781992
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#GROSS_REVENUE",
+      "value": 505596
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNITS",
+      "value": 10303
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 636584
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 895033
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNITS",
+      "value": 976335
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNIT_PRICE",
+      "value": 132955
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#GROSS_REVENUE",
+      "value": 834403
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNITS",
+      "value": 526407
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNIT_PRICE",
+      "value": 538419
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#GROSS_REVENUE",
+      "value": 105463
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNITS",
+      "value": 949382
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNIT_PRICE",
+      "value": 638295
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#GROSS_REVENUE",
+      "value": 304523
+    },
+    {
+      "key": "BIKES#EUROPE#UNITS",
+      "value": 718750
+    },
+    {
+      "key": "BIKES#EUROPE#UNIT_PRICE",
+      "value": 359246
+    },
+    {
+      "key": "BIKES#EUROPE#GROSS_REVENUE",
+      "value": 749852
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNITS",
+      "value": 196919
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 254059
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 453829
+    },
+    {
+      "key": "BIKES#GERMANY#UNITS",
+      "value": 531108
+    },
+    {
+      "key": "BIKES#GERMANY#UNIT_PRICE",
+      "value": 202095
+    },
+    {
+      "key": "BIKES#GERMANY#GROSS_REVENUE",
+      "value": 819639
+    },
+    {
+      "key": "BIKES#BERLIN#UNITS",
+      "value": 104031
+    },
+    {
+      "key": "BIKES#BERLIN#UNIT_PRICE",
+      "value": 796978
+    },
+    {
+      "key": "BIKES#BERLIN#GROSS_REVENUE",
+      "value": 347786
+    },
+    {
+      "key": "BIKES#FREIBURG#UNITS",
+      "value": 869828
+    },
+    {
+      "key": "BIKES#FREIBURG#UNIT_PRICE",
+      "value": 848054
+    },
+    {
+      "key": "BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 451368
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNITS",
+      "value": 177803
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNIT_PRICE",
+      "value": 538847
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#GROSS_REVENUE",
+      "value": 380506
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNITS",
+      "value": 966400
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 646658
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 635907
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNITS",
+      "value": 488028
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNIT_PRICE",
+      "value": 916457
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#GROSS_REVENUE",
+      "value": 836246
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNITS",
+      "value": 509677
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNIT_PRICE",
+      "value": 223189
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#GROSS_REVENUE",
+      "value": 443172
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNITS",
+      "value": 344132
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNIT_PRICE",
+      "value": 841538
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 676242
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNITS",
+      "value": 961604
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNIT_PRICE",
+      "value": 508986
+    },
+    {
+      "key": "PRODUCT#EUROPE#GROSS_REVENUE",
+      "value": 633699
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNITS",
+      "value": 654084
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 906207
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 816776
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNITS",
+      "value": 610165
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNIT_PRICE",
+      "value": 502006
+    },
+    {
+      "key": "PRODUCT#GERMANY#GROSS_REVENUE",
+      "value": 330674
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNITS",
+      "value": 11373
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNIT_PRICE",
+      "value": 150146
+    },
+    {
+      "key": "PRODUCT#BERLIN#GROSS_REVENUE",
+      "value": 767212
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNITS",
+      "value": 130560
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNIT_PRICE",
+      "value": 171233
+    },
+    {
+      "key": "PRODUCT#FREIBURG#GROSS_REVENUE",
+      "value": 318209
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNITS",
+      "value": 39178
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNIT_PRICE",
+      "value": 765066
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#GROSS_REVENUE",
+      "value": 137886
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNITS",
+      "value": 5398
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 275929
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 377990
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNITS",
+      "value": 146963
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNIT_PRICE",
+      "value": 892436
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#GROSS_REVENUE",
+      "value": 993363
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNITS",
+      "value": 331461
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNIT_PRICE",
+      "value": 555045
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#GROSS_REVENUE",
+      "value": 744620
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNITS",
+      "value": 622068
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNIT_PRICE",
+      "value": 222648
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#GROSS_REVENUE",
+      "value": 545282
+    }
+  ],
+  "ALL_ENTITIES#ACTUAL#USD": [
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNITS",
+      "value": 333759
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNIT_PRICE",
+      "value": 225029
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#GROSS_REVENUE",
+      "value": 593182
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNITS",
+      "value": 920341
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 644203
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 841332
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNITS",
+      "value": 969320
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNIT_PRICE",
+      "value": 623451
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#GROSS_REVENUE",
+      "value": 849085
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNITS",
+      "value": 233765
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNIT_PRICE",
+      "value": 84859
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#GROSS_REVENUE",
+      "value": 344921
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNITS",
+      "value": 244547
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNIT_PRICE",
+      "value": 236012
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#GROSS_REVENUE",
+      "value": 351730
+    },
+    {
+      "key": "BIKES#EUROPE#UNITS",
+      "value": 137085
+    },
+    {
+      "key": "BIKES#EUROPE#UNIT_PRICE",
+      "value": 526401
+    },
+    {
+      "key": "BIKES#EUROPE#GROSS_REVENUE",
+      "value": 291510
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNITS",
+      "value": 616501
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 138124
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 990114
+    },
+    {
+      "key": "BIKES#GERMANY#UNITS",
+      "value": 909420
+    },
+    {
+      "key": "BIKES#GERMANY#UNIT_PRICE",
+      "value": 374231
+    },
+    {
+      "key": "BIKES#GERMANY#GROSS_REVENUE",
+      "value": 657893
+    },
+    {
+      "key": "BIKES#BERLIN#UNITS",
+      "value": 733352
+    },
+    {
+      "key": "BIKES#BERLIN#UNIT_PRICE",
+      "value": 547987
+    },
+    {
+      "key": "BIKES#BERLIN#GROSS_REVENUE",
+      "value": 48626
+    },
+    {
+      "key": "BIKES#FREIBURG#UNITS",
+      "value": 398415
+    },
+    {
+      "key": "BIKES#FREIBURG#UNIT_PRICE",
+      "value": 463370
+    },
+    {
+      "key": "BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 11839
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNITS",
+      "value": 135504
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNIT_PRICE",
+      "value": 222532
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#GROSS_REVENUE",
+      "value": 56563
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNITS",
+      "value": 872802
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 872334
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 129516
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNITS",
+      "value": 368304
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNIT_PRICE",
+      "value": 83396
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#GROSS_REVENUE",
+      "value": 412219
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNITS",
+      "value": 860485
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNIT_PRICE",
+      "value": 560141
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#GROSS_REVENUE",
+      "value": 977698
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNITS",
+      "value": 803577
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNIT_PRICE",
+      "value": 274626
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 946561
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNITS",
+      "value": 347429
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNIT_PRICE",
+      "value": 151018
+    },
+    {
+      "key": "PRODUCT#EUROPE#GROSS_REVENUE",
+      "value": 203157
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNITS",
+      "value": 762944
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 156039
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 160514
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNITS",
+      "value": 213867
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNIT_PRICE",
+      "value": 498296
+    },
+    {
+      "key": "PRODUCT#GERMANY#GROSS_REVENUE",
+      "value": 146448
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNITS",
+      "value": 132575
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNIT_PRICE",
+      "value": 633308
+    },
+    {
+      "key": "PRODUCT#BERLIN#GROSS_REVENUE",
+      "value": 510845
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNITS",
+      "value": 225016
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNIT_PRICE",
+      "value": 179882
+    },
+    {
+      "key": "PRODUCT#FREIBURG#GROSS_REVENUE",
+      "value": 992897
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNITS",
+      "value": 967404
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNIT_PRICE",
+      "value": 566477
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#GROSS_REVENUE",
+      "value": 660146
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNITS",
+      "value": 194163
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 28178
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 742509
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNITS",
+      "value": 775698
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNIT_PRICE",
+      "value": 611552
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#GROSS_REVENUE",
+      "value": 828358
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNITS",
+      "value": 99610
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNIT_PRICE",
+      "value": 512750
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#GROSS_REVENUE",
+      "value": 911953
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNITS",
+      "value": 29200
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNIT_PRICE",
+      "value": 339731
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#GROSS_REVENUE",
+      "value": 591714
+    }
+  ],
+  "ALL_ENTITIES#ACTUAL#EUR": [
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNITS",
+      "value": 81261
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNIT_PRICE",
+      "value": 607436
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#GROSS_REVENUE",
+      "value": 427274
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNITS",
+      "value": 589180
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 157760
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 652701
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNITS",
+      "value": 977125
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNIT_PRICE",
+      "value": 931339
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#GROSS_REVENUE",
+      "value": 169309
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNITS",
+      "value": 41929
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNIT_PRICE",
+      "value": 360480
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#GROSS_REVENUE",
+      "value": 327239
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNITS",
+      "value": 544107
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNIT_PRICE",
+      "value": 232931
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#GROSS_REVENUE",
+      "value": 806631
+    },
+    {
+      "key": "BIKES#EUROPE#UNITS",
+      "value": 891078
+    },
+    {
+      "key": "BIKES#EUROPE#UNIT_PRICE",
+      "value": 109939
+    },
+    {
+      "key": "BIKES#EUROPE#GROSS_REVENUE",
+      "value": 844867
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNITS",
+      "value": 206252
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 500775
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 207756
+    },
+    {
+      "key": "BIKES#GERMANY#UNITS",
+      "value": 379961
+    },
+    {
+      "key": "BIKES#GERMANY#UNIT_PRICE",
+      "value": 529081
+    },
+    {
+      "key": "BIKES#GERMANY#GROSS_REVENUE",
+      "value": 554117
+    },
+    {
+      "key": "BIKES#BERLIN#UNITS",
+      "value": 385560
+    },
+    {
+      "key": "BIKES#BERLIN#UNIT_PRICE",
+      "value": 40517
+    },
+    {
+      "key": "BIKES#BERLIN#GROSS_REVENUE",
+      "value": 338107
+    },
+    {
+      "key": "BIKES#FREIBURG#UNITS",
+      "value": 72392
+    },
+    {
+      "key": "BIKES#FREIBURG#UNIT_PRICE",
+      "value": 884645
+    },
+    {
+      "key": "BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 159157
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNITS",
+      "value": 352193
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNIT_PRICE",
+      "value": 792850
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#GROSS_REVENUE",
+      "value": 13483
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNITS",
+      "value": 927366
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 271458
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 878129
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNITS",
+      "value": 555740
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNIT_PRICE",
+      "value": 921856
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#GROSS_REVENUE",
+      "value": 840975
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNITS",
+      "value": 308881
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNIT_PRICE",
+      "value": 265453
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#GROSS_REVENUE",
+      "value": 290057
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNITS",
+      "value": 667473
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNIT_PRICE",
+      "value": 61606
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 413130
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNITS",
+      "value": 979336
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNIT_PRICE",
+      "value": 499201
+    },
+    {
+      "key": "PRODUCT#EUROPE#GROSS_REVENUE",
+      "value": 168429
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNITS",
+      "value": 967346
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 836245
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 987351
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNITS",
+      "value": 231616
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNIT_PRICE",
+      "value": 152569
+    },
+    {
+      "key": "PRODUCT#GERMANY#GROSS_REVENUE",
+      "value": 126931
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNITS",
+      "value": 987570
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNIT_PRICE",
+      "value": 430272
+    },
+    {
+      "key": "PRODUCT#BERLIN#GROSS_REVENUE",
+      "value": 935779
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNITS",
+      "value": 7405
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNIT_PRICE",
+      "value": 650038
+    },
+    {
+      "key": "PRODUCT#FREIBURG#GROSS_REVENUE",
+      "value": 474073
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNITS",
+      "value": 152720
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNIT_PRICE",
+      "value": 373064
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#GROSS_REVENUE",
+      "value": 307303
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNITS",
+      "value": 117325
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 43887
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 444138
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNITS",
+      "value": 791609
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNIT_PRICE",
+      "value": 874774
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#GROSS_REVENUE",
+      "value": 614139
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNITS",
+      "value": 370730
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNIT_PRICE",
+      "value": 798371
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#GROSS_REVENUE",
+      "value": 936898
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNITS",
+      "value": 576524
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNIT_PRICE",
+      "value": 346481
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#GROSS_REVENUE",
+      "value": 582770
+    }
+  ],
+  "ALL_ENTITIES#BUDGET#LC": [
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNITS",
+      "value": 927104
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNIT_PRICE",
+      "value": 320477
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#GROSS_REVENUE",
+      "value": 408429
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNITS",
+      "value": 664660
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 491947
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 324616
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNITS",
+      "value": 227132
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNIT_PRICE",
+      "value": 732629
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#GROSS_REVENUE",
+      "value": 365541
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNITS",
+      "value": 125647
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNIT_PRICE",
+      "value": 442382
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#GROSS_REVENUE",
+      "value": 212662
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNITS",
+      "value": 411204
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNIT_PRICE",
+      "value": 50736
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#GROSS_REVENUE",
+      "value": 475902
+    },
+    {
+      "key": "BIKES#EUROPE#UNITS",
+      "value": 189151
+    },
+    {
+      "key": "BIKES#EUROPE#UNIT_PRICE",
+      "value": 707292
+    },
+    {
+      "key": "BIKES#EUROPE#GROSS_REVENUE",
+      "value": 52588
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNITS",
+      "value": 126138
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 803836
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 39474
+    },
+    {
+      "key": "BIKES#GERMANY#UNITS",
+      "value": 459902
+    },
+    {
+      "key": "BIKES#GERMANY#UNIT_PRICE",
+      "value": 137871
+    },
+    {
+      "key": "BIKES#GERMANY#GROSS_REVENUE",
+      "value": 278587
+    },
+    {
+      "key": "BIKES#BERLIN#UNITS",
+      "value": 531746
+    },
+    {
+      "key": "BIKES#BERLIN#UNIT_PRICE",
+      "value": 806412
+    },
+    {
+      "key": "BIKES#BERLIN#GROSS_REVENUE",
+      "value": 886982
+    },
+    {
+      "key": "BIKES#FREIBURG#UNITS",
+      "value": 344600
+    },
+    {
+      "key": "BIKES#FREIBURG#UNIT_PRICE",
+      "value": 876358
+    },
+    {
+      "key": "BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 749958
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNITS",
+      "value": 202420
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNIT_PRICE",
+      "value": 551685
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#GROSS_REVENUE",
+      "value": 923181
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNITS",
+      "value": 533346
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 73300
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 536959
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNITS",
+      "value": 807686
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNIT_PRICE",
+      "value": 883115
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#GROSS_REVENUE",
+      "value": 290915
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNITS",
+      "value": 759579
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNIT_PRICE",
+      "value": 148812
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#GROSS_REVENUE",
+      "value": 907472
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNITS",
+      "value": 41139
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNIT_PRICE",
+      "value": 454236
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 728617
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNITS",
+      "value": 250351
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNIT_PRICE",
+      "value": 401560
+    },
+    {
+      "key": "PRODUCT#EUROPE#GROSS_REVENUE",
+      "value": 824811
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNITS",
+      "value": 836185
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 251158
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 576761
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNITS",
+      "value": 676136
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNIT_PRICE",
+      "value": 434377
+    },
+    {
+      "key": "PRODUCT#GERMANY#GROSS_REVENUE",
+      "value": 891923
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNITS",
+      "value": 493015
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNIT_PRICE",
+      "value": 635766
+    },
+    {
+      "key": "PRODUCT#BERLIN#GROSS_REVENUE",
+      "value": 585671
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNITS",
+      "value": 587333
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNIT_PRICE",
+      "value": 946866
+    },
+    {
+      "key": "PRODUCT#FREIBURG#GROSS_REVENUE",
+      "value": 777379
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNITS",
+      "value": 798232
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNIT_PRICE",
+      "value": 755955
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#GROSS_REVENUE",
+      "value": 762837
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNITS",
+      "value": 7087
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 687121
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 160736
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNITS",
+      "value": 231017
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNIT_PRICE",
+      "value": 439968
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#GROSS_REVENUE",
+      "value": 498039
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNITS",
+      "value": 208542
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNIT_PRICE",
+      "value": 383840
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#GROSS_REVENUE",
+      "value": 730281
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNITS",
+      "value": 112921
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNIT_PRICE",
+      "value": 32100
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#GROSS_REVENUE",
+      "value": 261471
+    }
+  ],
+  "ALL_ENTITIES#BUDGET#USD": [
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNITS",
+      "value": 237188
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNIT_PRICE",
+      "value": 65521
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#GROSS_REVENUE",
+      "value": 417405
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNITS",
+      "value": 598134
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 281477
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 632047
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNITS",
+      "value": 305808
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNIT_PRICE",
+      "value": 12830
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#GROSS_REVENUE",
+      "value": 577871
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNITS",
+      "value": 675292
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNIT_PRICE",
+      "value": 533859
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#GROSS_REVENUE",
+      "value": 871772
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNITS",
+      "value": 738445
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNIT_PRICE",
+      "value": 542693
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#GROSS_REVENUE",
+      "value": 51815
+    },
+    {
+      "key": "BIKES#EUROPE#UNITS",
+      "value": 871964
+    },
+    {
+      "key": "BIKES#EUROPE#UNIT_PRICE",
+      "value": 646309
+    },
+    {
+      "key": "BIKES#EUROPE#GROSS_REVENUE",
+      "value": 101151
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNITS",
+      "value": 193530
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 830190
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 475501
+    },
+    {
+      "key": "BIKES#GERMANY#UNITS",
+      "value": 295877
+    },
+    {
+      "key": "BIKES#GERMANY#UNIT_PRICE",
+      "value": 817453
+    },
+    {
+      "key": "BIKES#GERMANY#GROSS_REVENUE",
+      "value": 55473
+    },
+    {
+      "key": "BIKES#BERLIN#UNITS",
+      "value": 287916
+    },
+    {
+      "key": "BIKES#BERLIN#UNIT_PRICE",
+      "value": 763664
+    },
+    {
+      "key": "BIKES#BERLIN#GROSS_REVENUE",
+      "value": 838654
+    },
+    {
+      "key": "BIKES#FREIBURG#UNITS",
+      "value": 286994
+    },
+    {
+      "key": "BIKES#FREIBURG#UNIT_PRICE",
+      "value": 701050
+    },
+    {
+      "key": "BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 591533
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNITS",
+      "value": 514241
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNIT_PRICE",
+      "value": 631435
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#GROSS_REVENUE",
+      "value": 45791
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNITS",
+      "value": 245802
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 422422
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 261874
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNITS",
+      "value": 347217
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNIT_PRICE",
+      "value": 806977
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#GROSS_REVENUE",
+      "value": 485078
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNITS",
+      "value": 576528
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNIT_PRICE",
+      "value": 242806
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#GROSS_REVENUE",
+      "value": 949906
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNITS",
+      "value": 818429
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNIT_PRICE",
+      "value": 535322
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 221955
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNITS",
+      "value": 159554
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNIT_PRICE",
+      "value": 761457
+    },
+    {
+      "key": "PRODUCT#EUROPE#GROSS_REVENUE",
+      "value": 296953
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNITS",
+      "value": 655085
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 527526
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 777108
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNITS",
+      "value": 912669
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNIT_PRICE",
+      "value": 184387
+    },
+    {
+      "key": "PRODUCT#GERMANY#GROSS_REVENUE",
+      "value": 714532
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNITS",
+      "value": 335365
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNIT_PRICE",
+      "value": 514447
+    },
+    {
+      "key": "PRODUCT#BERLIN#GROSS_REVENUE",
+      "value": 18151
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNITS",
+      "value": 884237
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNIT_PRICE",
+      "value": 504469
+    },
+    {
+      "key": "PRODUCT#FREIBURG#GROSS_REVENUE",
+      "value": 468307
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNITS",
+      "value": 352161
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNIT_PRICE",
+      "value": 438247
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#GROSS_REVENUE",
+      "value": 616318
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNITS",
+      "value": 698434
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 228954
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 998573
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNITS",
+      "value": 841131
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNIT_PRICE",
+      "value": 602313
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#GROSS_REVENUE",
+      "value": 672942
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNITS",
+      "value": 115042
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNIT_PRICE",
+      "value": 522975
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#GROSS_REVENUE",
+      "value": 6990
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNITS",
+      "value": 897116
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNIT_PRICE",
+      "value": 533511
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#GROSS_REVENUE",
+      "value": 42213
+    }
+  ],
+  "ALL_ENTITIES#BUDGET#EUR": [
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNITS",
+      "value": 806194
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#UNIT_PRICE",
+      "value": 451914
+    },
+    {
+      "key": "ALL_ARTICLES#EUROPE#GROSS_REVENUE",
+      "value": 640622
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNITS",
+      "value": 12379
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 526285
+    },
+    {
+      "key": "ALL_ARTICLES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 488509
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNITS",
+      "value": 65496
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#UNIT_PRICE",
+      "value": 50506
+    },
+    {
+      "key": "ALL_ARTICLES#GERMANY#GROSS_REVENUE",
+      "value": 80497
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNITS",
+      "value": 491204
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#UNIT_PRICE",
+      "value": 768336
+    },
+    {
+      "key": "ALL_ARTICLES#BERLIN#GROSS_REVENUE",
+      "value": 242310
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNITS",
+      "value": 72054
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#UNIT_PRICE",
+      "value": 872262
+    },
+    {
+      "key": "ALL_ARTICLES#FREIBURG#GROSS_REVENUE",
+      "value": 996893
+    },
+    {
+      "key": "BIKES#EUROPE#UNITS",
+      "value": 763538
+    },
+    {
+      "key": "BIKES#EUROPE#UNIT_PRICE",
+      "value": 307199
+    },
+    {
+      "key": "BIKES#EUROPE#GROSS_REVENUE",
+      "value": 820857
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNITS",
+      "value": 471781
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 767504
+    },
+    {
+      "key": "BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 958041
+    },
+    {
+      "key": "BIKES#GERMANY#UNITS",
+      "value": 732153
+    },
+    {
+      "key": "BIKES#GERMANY#UNIT_PRICE",
+      "value": 498094
+    },
+    {
+      "key": "BIKES#GERMANY#GROSS_REVENUE",
+      "value": 927576
+    },
+    {
+      "key": "BIKES#BERLIN#UNITS",
+      "value": 805877
+    },
+    {
+      "key": "BIKES#BERLIN#UNIT_PRICE",
+      "value": 412420
+    },
+    {
+      "key": "BIKES#BERLIN#GROSS_REVENUE",
+      "value": 146117
+    },
+    {
+      "key": "BIKES#FREIBURG#UNITS",
+      "value": 993349
+    },
+    {
+      "key": "BIKES#FREIBURG#UNIT_PRICE",
+      "value": 427372
+    },
+    {
+      "key": "BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 261171
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNITS",
+      "value": 790506
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#UNIT_PRICE",
+      "value": 211929
+    },
+    {
+      "key": "MOUNTAIN_BIKES#EUROPE#GROSS_REVENUE",
+      "value": 639316
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNITS",
+      "value": 940461
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 186801
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 473761
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNITS",
+      "value": 118936
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#UNIT_PRICE",
+      "value": 976415
+    },
+    {
+      "key": "MOUNTAIN_BIKES#GERMANY#GROSS_REVENUE",
+      "value": 706013
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNITS",
+      "value": 136442
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#UNIT_PRICE",
+      "value": 958644
+    },
+    {
+      "key": "MOUNTAIN_BIKES#BERLIN#GROSS_REVENUE",
+      "value": 786693
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNITS",
+      "value": 441941
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#UNIT_PRICE",
+      "value": 870227
+    },
+    {
+      "key": "MOUNTAIN_BIKES#FREIBURG#GROSS_REVENUE",
+      "value": 316991
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNITS",
+      "value": 922599
+    },
+    {
+      "key": "PRODUCT#EUROPE#UNIT_PRICE",
+      "value": 344987
+    },
+    {
+      "key": "PRODUCT#EUROPE#GROSS_REVENUE",
+      "value": 940870
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNITS",
+      "value": 685887
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 425524
+    },
+    {
+      "key": "PRODUCT#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 592889
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNITS",
+      "value": 999443
+    },
+    {
+      "key": "PRODUCT#GERMANY#UNIT_PRICE",
+      "value": 904314
+    },
+    {
+      "key": "PRODUCT#GERMANY#GROSS_REVENUE",
+      "value": 974462
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNITS",
+      "value": 849554
+    },
+    {
+      "key": "PRODUCT#BERLIN#UNIT_PRICE",
+      "value": 47684
+    },
+    {
+      "key": "PRODUCT#BERLIN#GROSS_REVENUE",
+      "value": 178619
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNITS",
+      "value": 192851
+    },
+    {
+      "key": "PRODUCT#FREIBURG#UNIT_PRICE",
+      "value": 133058
+    },
+    {
+      "key": "PRODUCT#FREIBURG#GROSS_REVENUE",
+      "value": 711368
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNITS",
+      "value": 251142
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#UNIT_PRICE",
+      "value": 172880
+    },
+    {
+      "key": "PRODUCT_A#EUROPE#GROSS_REVENUE",
+      "value": 841228
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNITS",
+      "value": 47910
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#UNIT_PRICE",
+      "value": 149334
+    },
+    {
+      "key": "PRODUCT_A#GREAT_BRITAIN#GROSS_REVENUE",
+      "value": 651728
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNITS",
+      "value": 510160
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#UNIT_PRICE",
+      "value": 702753
+    },
+    {
+      "key": "PRODUCT_A#GERMANY#GROSS_REVENUE",
+      "value": 910423
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNITS",
+      "value": 490820
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#UNIT_PRICE",
+      "value": 566644
+    },
+    {
+      "key": "PRODUCT_A#BERLIN#GROSS_REVENUE",
+      "value": 902098
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNITS",
+      "value": 79923
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#UNIT_PRICE",
+      "value": 470785
+    },
+    {
+      "key": "PRODUCT_A#FREIBURG#GROSS_REVENUE",
+      "value": 26866
+    }
+  ]
+}
