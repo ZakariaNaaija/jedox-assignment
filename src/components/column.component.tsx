@@ -1,23 +1,29 @@
 import React, { useState } from "react";
 import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
 
-interface RegionProps {
-  region: any;
+export interface Column {
+  name: string;
+  id: number;
+  children?: Column[];
+}
+
+interface ColumnProps {
+  column: Column;
   setExpanded: React.Dispatch<React.SetStateAction<Set<number>>>;
   expanded: Set<number>;
   level: number;
 }
 
-const Column: React.FC<RegionProps> = ({
-  region,
+const ColumnComponent: React.FC<ColumnProps> = ({
+  column,
   level,
   setExpanded,
   expanded,
 }) => {
   const [isExpanded, setIsExpanded] = useState(false);
-  const loopChildren = (region: any, newExpanded: any) => {
-    if (region.children)
-      for (let child of region.children) {
+  const loopChildren = (column: Column, newExpanded: Set<number>) => {
+    if (column.children)
+      for (let child of column.children) {
         newExpanded.delete(child.id);
         loopChildren(child, newExpanded);
       }
@@ -25,21 +31,22 @@ const Column: React.FC<RegionProps> = ({
 
   const onClick = () => {
     if (
-      !region.children ||
-      !Array.isArray(region.children) ||
-      region.children.length === 0
+      !column.children ||
+      !Array.isArray(column.children) ||
+      column.children.length === 0
     )
       return;
     setIsExpanded((prev) => {
       const newExpanded = new Set(expanded);
       if (!prev) {
-        newExpanded.add(region.id);
-
-        for (let child of region.children) {
-          newExpanded.add(child.id);
+        newExpanded.add(column.id);
+        if (column.children) {
+          for (let child of column.children) {
+            newExpanded.add(child.id);
+          }
         }
       } else {
-        loopChildren(region, newExpanded);
+        loopChildren(column, newExpanded);
       }
       setExpanded(newExpanded);
 
@@ -50,15 +57,15 @@ const Column: React.FC<RegionProps> = ({
   return (
     <>
       <th onClick={onClick}>
-        {region.name} {isExpanded ? <FaChevronLeft /> : <FaChevronRight />}
+        {column.name} {isExpanded ? <FaChevronLeft /> : <FaChevronRight />}
       </th>
-      {isExpanded && region.children && region.children.length > 0 && (
+      {isExpanded && column.children && column.children.length > 0 && (
         <>
-          {region.children.map((child: any, index: number) => (
-            <Column
+          {column.children.map((child: any, index: number) => (
+            <ColumnComponent
               key={index}
               level={level + 1}
-              region={child}
+              column={child}
               setExpanded={setExpanded}
               expanded={expanded}
             />
@@ -69,4 +76,4 @@ const Column: React.FC<RegionProps> = ({
   );
 };
 
-export default Column;
+export default ColumnComponent;

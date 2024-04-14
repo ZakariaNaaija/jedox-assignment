@@ -29,3 +29,20 @@ tr:hover {
   background-color: #f0f0f0;
 }
 
+.table-options {
+  display: flex;
+  flex-direction: row;
+  margin: 30px 10px;
+  justify-content: space-between;
+
+}
+
+.filter-section {
+  display: flex;
+  flex-direction: row;
+}
+
+.react-select-container {
+  margin: 0 20px;
+  width: 150px;
+}

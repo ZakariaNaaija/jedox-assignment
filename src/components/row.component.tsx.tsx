@@ -7,14 +7,19 @@ import {
   transformToTitleCase,
 } from "../utils/transforms.util";
 
+export interface Row {
+  name: string;
+  children?: Row[];
+}
+
 interface RowProps {
-  row: any;
-  data: any;
+  row: Row;
+  data: { key: string; value: number }[];
   level: number;
   expanded: Set<number>;
 }
 
-const Row: React.FC<RowProps> = ({ row, level, expanded, data }) => {
+const RowComponent: React.FC<RowProps> = ({ row, level, expanded, data }) => {
   const [isExpanded, setIsExpanded] = useState(false);
   const toggleExpand = () => {
     if (
@@ -79,7 +84,7 @@ const Row: React.FC<RowProps> = ({ row, level, expanded, data }) => {
         row.children &&
         row.children.length > 0 &&
         row.children.map((value: any, index: number) => (
-          <Row
+          <RowComponent
             key={index}
             row={value}
             level={level + 1}
@@ -91,4 +96,4 @@ const Row: React.FC<RowProps> = ({ row, level, expanded, data }) => {
   );
 };
 
-export default Row;
+export default RowComponent;
