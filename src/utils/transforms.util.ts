@@ -14,6 +14,8 @@ export const generateRandomNumber = (min: number, max: number): number => {
   return Math.floor(Math.random() * (max - min + 1)) + min;
 };
 
+const REGIONS = ["EUROPE", "GERMANY", "FREIBURG", "BERLIN", "GREAT_BRITAIN"];
+
 export const extractMeasures = (
   data: {
     key: string;
@@ -21,25 +23,34 @@ export const extractMeasures = (
   }[],
   article: string
 ) => {
-  const measuresMap: Map<string, number[]> = new Map();
+  const measuresMap: Map<string, number[]> = new Map([
+    ["UNITS", new Array(5).fill(0)],
+    ["UNIT_PRICE", new Array(5).fill(0)],
+    ["GROSS_REVENUE", new Array(5).fill(0)],
+  ]);
   let combinations =
     data?.filter(
       (record: { key: string; value: number }) =>
         !record.key.indexOf(transformToSnakeCase(article) + "#")
     ) ?? [];
-  if (combinations.length === 0) {
-    return [
-      { name: "UNITS", values: new Array(5).fill(0) },
-      { name: "UNIT_PRICE", values: new Array(5).fill(0) },
-      { name: "GROSS_REVENUE", values: new Array(5).fill(0) },
-    ];
-  }
-  for (let combination of combinations) {
-    const [, , measureName] = combination.key.split("#");
-    if (!measuresMap.has(measureName)) {
-      measuresMap.set(measureName, []);
+
+  if (combinations.length !== 0) {
+    let index = REGIONS.indexOf(combinations[0].key.split("#")[1]);
+    let prevRegion = combinations[0].key.split("#")[1];
+
+    for (let combination of combinations) {
+      const [, region, measureName] = combination.key.split("#");
+      if (region !== prevRegion) {
+        prevRegion = region;
+        index = REGIONS.indexOf(combination.key.split("#")[1]);
+      }
+
+      if (!measuresMap.has(measureName)) {
+        measuresMap.set(measureName, []);
+      }
+      const measures = measuresMap.get(measureName);
+      if (measures) measures[index] = combination.value;
     }
-    measuresMap.get(measureName)?.push(combination.value);
   }
 
   const measureData = Array.from(measuresMap.entries()).map(

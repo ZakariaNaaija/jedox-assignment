@@ -12,7 +12,7 @@ const articles = [
   "Product",
   "Product A",
 ];
-const regions = ["Europe", "Great Britain", "Germany", "Berlin", "Freiburg"];
+const regions = ["Europe", "Germany", "Freiburg", "Berlin", "Great Britain"];
 const measures = ["Units", "Unit Price", "Gross Revenue"];
 
 const combinations: Record<string, { key: string; value: number }[]> = {};
@@ -44,10 +44,14 @@ for (const legalEntity of legalEntities) {
   }
 }
 
-fs.writeFile("data.json", JSON.stringify(combinations, null, 2), (err) => {
-  if (err) {
-    console.error("Error writing combinations to file:", err);
-  } else {
-    console.log("Combinations have been written to combinations.json");
+fs.writeFile(
+  "./utils/data.json",
+  JSON.stringify(combinations, null, 2),
+  (err) => {
+    if (err) {
+      console.error("Error writing combinations to file:", err);
+    } else {
+      console.log("Combinations have been written to combinations.json");
+    }
   }
-});
+);

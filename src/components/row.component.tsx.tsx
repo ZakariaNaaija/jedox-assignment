@@ -3,7 +3,6 @@ import { FaChevronDown, FaChevronRight } from "react-icons/fa";
 
 import {
   extractMeasures,
-  transformToSnakeCase,
   transformToTitleCase,
 } from "../utils/transforms.util";
 
@@ -43,7 +42,6 @@ const RowComponent: React.FC<RowProps> = ({
     [data, row.name]
   );
 
-  console.log(expandedColumns);
   return (
     <>
       {measures.map(
