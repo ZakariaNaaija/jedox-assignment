@@ -56,7 +56,7 @@ const ColumnComponent: React.FC<ColumnProps> = ({
 
   return (
     <>
-      <th onClick={toggleExpand}>
+      <th onClick={toggleExpand} className="expandable">
         {column.name} {isExpanded ? <FaChevronLeft /> : <FaChevronRight />}
       </th>
       {isExpanded && column.children && column.children.length > 0 && (

@@ -38,15 +38,12 @@ const RowComponent: React.FC<RowProps> = ({
     setIsExpanded((prevValue) => !prevValue);
   };
 
-  const measures = useMemo(() => {
-    return extractMeasures(
-      data?.filter(
-        (record: { key: string; value: number }) =>
-          !record.key.indexOf(transformToSnakeCase(row.name) + "#")
-      )
-    );
-  }, [data, row.name]);
+  const measures = useMemo(
+    () => extractMeasures(data, row.name),
+    [data, row.name]
+  );
 
+  console.log(expandedColumns);
   return (
     <>
       {measures.map(
@@ -64,9 +61,9 @@ const RowComponent: React.FC<RowProps> = ({
               <td></td>
             )}
             <td>{transformToTitleCase(measure.name)} </td>
-            {measure.values.map((value: number, index: number) => {
-              if (expandedColumns.has(index)) {
-                return <td key={value}>{value}</td>;
+            {measure.values.map((value: number, _index: number) => {
+              if (expandedColumns.has(_index)) {
+                return <td key={index + _index}>{value}</td>;
               }
               return null;
             })}

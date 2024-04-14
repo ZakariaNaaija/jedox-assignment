@@ -50,6 +50,14 @@
                       "name":"Product A"
                    }
                 ]
+             },
+             {
+                "name":"Subscription",
+                "children":[
+                   {
+                      "name":"Subscription A"
+                   }
+                ]
              }
           ]
        }

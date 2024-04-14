@@ -7,6 +7,7 @@ th, td {
   padding: 8px;
   border: 1px solid #ddd;
   text-align: left;
+  width:200px;
 }
 
 .zebra th {
@@ -18,15 +19,11 @@ th, td {
 }
 
 tr:hover {
-  background-color: #ddd;
+  background-color: #bebebe !important;
 }
 
 .expandable {
   cursor: pointer;
-}
-
-.expandable:hover {
-  background-color: #f0f0f0;
 }
 
 .table-options {
