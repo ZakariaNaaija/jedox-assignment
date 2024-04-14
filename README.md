@@ -17,7 +17,7 @@ npm run start
 ```
 
 ### `To add a new region`
-1- Add a new region in table-structure.json like
+1. Add a new region in table-structure.json like
 ```json 
 "children":[
     {
@@ -35,5 +35,5 @@ npm run start
 ]
 ```
 
-2- Update REGIONS array in transforms.util.ts - line 17 and add a region with the respective order as in table-structure
-3- Update the 0 initialisation for measuresMap in transforms.util.ts - line 27 from new Array(5) to new Array(6) 
+2. Update REGIONS array in transforms.util.ts - line 17 and add a region with the respective order as in table-structure
+3. Update the 0 initialisation for measuresMap in transforms.util.ts - line 27 from new Array(5) to new Array(6) 
