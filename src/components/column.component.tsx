@@ -9,65 +9,64 @@ export interface Column {
 
 interface ColumnProps {
   column: Column;
-  setExpanded: React.Dispatch<React.SetStateAction<Set<number>>>;
-  expanded: Set<number>;
-  level: number;
+  setExpandedColumns: React.Dispatch<React.SetStateAction<Set<number>>>;
+  expandedColumns: Set<number>;
 }
 
 const ColumnComponent: React.FC<ColumnProps> = ({
   column,
-  level,
-  setExpanded,
-  expanded,
+  setExpandedColumns,
+  expandedColumns,
 }) => {
   const [isExpanded, setIsExpanded] = useState(false);
-  const loopChildren = (column: Column, newExpanded: Set<number>) => {
+
+  const collapseChildrens = (column: Column, newExpanded: Set<number>) => {
     if (column.children)
       for (let child of column.children) {
         newExpanded.delete(child.id);
-        loopChildren(child, newExpanded);
+        collapseChildrens(child, newExpanded);
       }
   };
 
-  const onClick = () => {
+  const toggleExpand = () => {
     if (
       !column.children ||
       !Array.isArray(column.children) ||
       column.children.length === 0
-    )
+    ) {
       return;
-    setIsExpanded((prev) => {
-      const newExpanded = new Set(expanded);
-      if (!prev) {
-        newExpanded.add(column.id);
+    }
+
+    setIsExpanded((prevValue) => {
+      const newExpandedColumns = new Set(expandedColumns);
+      if (!prevValue) {
+        newExpandedColumns.add(column.id);
         if (column.children) {
           for (let child of column.children) {
-            newExpanded.add(child.id);
+            newExpandedColumns.add(child.id);
           }
         }
       } else {
-        loopChildren(column, newExpanded);
+        collapseChildrens(column, newExpandedColumns);
       }
-      setExpanded(newExpanded);
-
-      return !prev;
+      setExpandedColumns(newExpandedColumns);
+      return !prevValue;
     });
   };
 
   return (
     <>
-      <th onClick={onClick}>
+      <th onClick={toggleExpand}>
         {column.name} {isExpanded ? <FaChevronLeft /> : <FaChevronRight />}
       </th>
       {isExpanded && column.children && column.children.length > 0 && (
         <>
-          {column.children.map((child: any, index: number) => (
+          {column.children.map((child: Column, index: number) => (
             <ColumnComponent
               key={index}
-              level={level + 1}
               column={child}
-              setExpanded={setExpanded}
-              expanded={expanded}
+              setExpandedColumns={setExpandedColumns}
+              expandedColumns={expandedColumns}
             />
           ))}
         </>

@@ -10,12 +10,12 @@ export const transformToSnakeCase = (value: string): string => {
   return value.toUpperCase().replace(/\s+/g, "_");
 };
 
-export const transformData = (combinations: any) => {
+export const extractMeasures = (combinations: any) => {
   const measuresMap: Map<string, number[]> = new Map();
 
   // Group values by measure name
   combinations?.forEach(({ key, value }: { key: string; value: number }) => {
-    const [name, region, measureName] = key.split("#");
+    const [,, measureName] = key.split("#");
     if (!measuresMap.has(measureName)) {
       measuresMap.set(measureName, []);
     }

@@ -29,7 +29,7 @@ const TableComponent: React.FC<TableProps> = ({
   const [filteredData, setFilteredData] = useState<
     { key: string; value: number }[]
   >([]);
-  const [expanded, setExpanded] = useState<Set<number>>(new Set<number>([0]));
+  const [expandedColumns, setExpandedColumns] = useState<Set<number>>(new Set<number>([0]));
   const [checked, setChecked] = useState(false);
   const [legalEntity, setLegalEntity] = useState<{
     value: string;
@@ -90,9 +90,8 @@ const TableComponent: React.FC<TableProps> = ({
               <ColumnComponent
                 key={index}
                 column={column}
-                level={0}
-                expanded={expanded}
-                setExpanded={setExpanded}
+                expandedColumns={expandedColumns}
+                setExpandedColumns={setExpandedColumns}
               />
             ))}
           </tr>
@@ -103,7 +102,7 @@ const TableComponent: React.FC<TableProps> = ({
               key={index}
               row={row}
               level={0}
-              expanded={expanded}
+              expandedColumns={expandedColumns}
               data={filteredData}
             />
           ))}

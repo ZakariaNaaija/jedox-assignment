@@ -2,7 +2,7 @@ import React, { useMemo, useState } from "react";
 import { FaChevronDown, FaChevronRight } from "react-icons/fa";
 
 import {
-  transformData,
+  extractMeasures,
   transformToSnakeCase,
   transformToTitleCase,
 } from "../utils/transforms.util";
@@ -16,11 +16,17 @@ interface RowProps {
   row: Row;
   data: { key: string; value: number }[];
   level: number;
-  expanded: Set<number>;
+  expandedColumns: Set<number>;
 }
 
-const RowComponent: React.FC<RowProps> = ({ row, level, expanded, data }) => {
+const RowComponent: React.FC<RowProps> = ({
+  row,
+  level,
+  expandedColumns,
+  data,
+}) => {
   const [isExpanded, setIsExpanded] = useState(false);
+
   const toggleExpand = () => {
     if (
       !row.children ||
@@ -29,66 +35,54 @@ const RowComponent: React.FC<RowProps> = ({ row, level, expanded, data }) => {
     ) {
       return;
     }
-    setIsExpanded((prev) => !prev);
+    setIsExpanded((prevValue) => !prevValue);
   };
 
-  const rowData = useMemo(() => {
-    return transformData(
+  const measures = useMemo(() => {
+    return extractMeasures(
       data?.filter(
-        (dataRecord: { key: string; value: number }) =>
-          !dataRecord.key.indexOf(transformToSnakeCase(row.name))
+        (record: { key: string; value: number }) =>
+          !record.key.indexOf(transformToSnakeCase(row.name) + "#")
       )
     );
   }, [data, row.name]);
 
   return (
     <>
-      {rowData.map((value: any, index: number) => {
-        if (index !== 0) {
-          return (
-            <tr key={index}>
-              <td></td>
-              <td key={index}>{transformToTitleCase(value.name)} </td>
-              {value.values.map((val: string, index: number) => {
-                if (expanded.has(index)) {
-                  return <td key={val}>{val}</td>;
-                }
-                return null;
-              })}
-            </tr>
-          );
-        }
-        return (
+      {measures.map(
+        (measure: { name: string; values: number[] }, index: number) => (
           <tr key={index}>
-            <td
-              onClick={toggleExpand}
-              className="expandable"
-              style={{ paddingLeft: `${level * 20}px` }}
-            >
-              {" "}
-              {isExpanded ? <FaChevronDown /> : <FaChevronRight />}
-              {row.name}
-            </td>
-            <td key={0}> {transformToTitleCase(value.name)}</td>
-            {value.values.map((val: string, index: number) => {
-              if (expanded.has(index)) {
-                return <td key={val}>{val}</td>;
+            {index === 0 ? (
+              <td
+                onClick={toggleExpand}
+                className="expandable"
+                style={{ paddingLeft: `${level * 20 + 10}px` }}
+              >
+                {isExpanded ? <FaChevronDown /> : <FaChevronRight />} {row.name}
+              </td>
+            ) : (
+              <td></td>
+            )}
+            <td>{transformToTitleCase(measure.name)} </td>
+            {measure.values.map((value: number, index: number) => {
+              if (expandedColumns.has(index)) {
+                return <td key={value}>{value}</td>;
               }
               return null;
             })}
           </tr>
-        );
-      })}
+        )
+      )}
 
       {isExpanded &&
         row.children &&
         row.children.length > 0 &&
-        row.children.map((value: any, index: number) => (
+        row.children.map((child: Row, index: number) => (
           <RowComponent
             key={index}
-            row={value}
+            row={child}
             level={level + 1}
-            expanded={expanded}
+            expandedColumns={expandedColumns}
             data={data}
           />
         ))}

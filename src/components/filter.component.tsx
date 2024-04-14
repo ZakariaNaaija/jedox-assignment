@@ -1,8 +1,5 @@
 import Select, {
   components,
-  ControlProps,
-  Props,
-  StylesConfig,
 } from "react-select";
 
 export interface Filters {
